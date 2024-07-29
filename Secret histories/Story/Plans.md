@@ -33,5 +33,5 @@ Talking with [[Chillu Notes/Secret histories Chilu Ver/Hours/met/The Velvet|The 
 - Dream with the comission
 - Ask someone to dream with a lore fragment in order to convert it to the nectar fragment 
 - Vision to [[Way The Wood|Way The Wood]] with at least 18 nectar to meet [[Chillu Notes/Secret histories Chilu Ver/Hours/met/The Velvet|The Velvet]]
-
+[]()
 vonte is funny
