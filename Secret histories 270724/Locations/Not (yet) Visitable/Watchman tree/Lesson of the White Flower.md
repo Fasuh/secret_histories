@@ -1,0 +1,2 @@
+> A paradox of [[Illumination]]: light reveals, light blinds. This is the [[Lesson of the White Flower]] of the [[Watchman Tree|Watchman's Tree]]: even the most dangerous of knowledge is no danger at all when it is forgotten.
+- [[Glazery & Lightsmithing]]
