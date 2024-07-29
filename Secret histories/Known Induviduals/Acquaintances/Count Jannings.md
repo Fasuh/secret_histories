@@ -5,8 +5,8 @@ Count Gottlob Jannings represents a Continental confraternity of physicians and 
 He speaks of death
 
 Can teach language:
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Latin]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Fucine]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Ericapaean]]
+- [[Latin]]
+- [[Fucine]]
+- [[Ericapaean]]
 
 ![[Pasted image 20240421202104.png]]

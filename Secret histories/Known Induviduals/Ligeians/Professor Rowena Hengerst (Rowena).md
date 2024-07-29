@@ -1,3 +1,7 @@
+---
+aliases:
+  - Rowena
+---
 ![[Professor Rowena Hengerst.png]]
 "holder of the Mare's Key, called sea-opener, wolf-wife. Whom did she invite from Ys behind the wave? When the moon sets across the sea, will they follow its road again?"
 

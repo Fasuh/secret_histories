@@ -28,9 +28,9 @@ If you had to look fo a secret that has been hidden where would you start
 in places forgotten even by the hours, or by the long themselves. or maybe i would just write a secret, because the best preserved secrets are ones that are yet to be written.
 
 Can teach:
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Cracktrack]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Hyksos]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Kernewek Henavek]]
+- [[Cracktrack]]
+- [[Hyksos]]
+- [[Kernewek Henavek]]
 
 Chilu notes:
 - She is just like me fr fr

@@ -1,35 +1,35 @@
 #Vak #Sanscret #Coptic #Grail #Acquaintence 
 
 ![[Pasted image 20240421185913.png]]
-The owner of [[Chillu Notes/Secret histories Chilu Ver/places/The Ecdysis Club]]
+The owner of [[The Ecdysis Club]]
 
 Sulochana - suggestion 
 Amavasya - new moon
-[[Chillu Notes/Secret histories Chilu Ver/Languages/Sanscrit]]
+[[Sanscrit]]
 
-The laconic, energetic, bright-eyed, unblinking owner of [[Chillu Notes/Secret histories Chilu Ver/places/The Ecdysis Club]]. Sometimes she sits in the second row, seeking new talent for her peculiar establishment. Those she employs are rarely seen about town.
+The laconic, energetic, bright-eyed, unblinking owner of [[The Ecdysis Club]]. Sometimes she sits in the second row, seeking new talent for her peculiar establishment. Those she employs are rarely seen about town.
 
-most important [[Chillu Notes/Secret histories Chilu Ver/wth/Alukite|Alukites]] are that of the ligeia club, they are of the most important of [[Chillu Notes/Secret histories Chilu Ver/wth/Alukite|Alukites]], for they handle keys to traverse beyond the bounds.
+most important [[Alukite|Alukites]] are that of the ligeia club, they are of the most important of [[Alukite|Alukites]], for they handle keys to traverse beyond the bounds.
 
-if you have a wish to become [[Chillu Notes/Secret histories Chilu Ver/wth/Long]], or even something more you better garner the attention of one, because threading through the labyrinth or bounds is treacherous for anyone less equipped for such things
+if you have a wish to become [[Long]], or even something more you better garner the attention of one, because threading through the labyrinth or bounds is treacherous for anyone less equipped for such things
 
-how to become a [[Chillu Notes/Secret histories Chilu Ver/wth/Long]]?
+how to become a [[Long]]?
 its horrible to answer question with question but i must ask why do you seek such lengths.
 I want to learn the truth behind this world
 do you believe you can handle the truth?
 yes
-Well to be blunt and simple and lather laconic with my own answer to that is, you must first penetrate the [[Stag door]], and after doing that, covet and garner an admiration of an [[Chillu Notes/Secret histories Chilu Ver/Hours/Hours|Hour]].
+Well to be blunt and simple and lather laconic with my own answer to that is, you must first penetrate the [[Stag door]], and after doing that, covet and garner an admiration of an [[Hours|Hour]].
 
-What do you think of [[Chillu Notes/Secret histories Chilu Ver/Hours/Red Grail]]
-The [[Chillu Notes/Secret histories Chilu Ver/Hours/Red Grail]] is an [[Chillu Notes/Secret histories Chilu Ver/Hours/Hours|Hour]] which the aspect of birth and blood, is named after her. She is a powerful force who has taken part in may events in history of [[Chillu Notes/Secret histories Chilu Ver/places 1/Mansus]] and wake itself
-she is one of the oldest [[Chillu Notes/Secret histories Chilu Ver/Hours/Hours]] that has ever ever existed at least that keeps existing, and she has many children and names and [[Chillu Notes/Secret histories Chilu Ver/wth/Long|Longs]] down the History of eternity.
-Her aspect the [[Chillu Notes/Secret histories Chilu Ver/Principles/Grail]] she is the fifteenth hour.
+What do you think of [[Red Grail]]
+The [[Red Grail]] is an [[Hours|Hour]] which the aspect of birth and blood, is named after her. She is a powerful force who has taken part in may events in history of [[Mansus]] and wake itself
+she is one of the oldest [[Hours]] that has ever ever existed at least that keeps existing, and she has many children and names and [[Long|Longs]] down the History of eternity.
+Her aspect the [[Grail]] she is the fifteenth hour.
 
-What are [[Chillu Notes/Secret histories Chilu Ver/Ligeians/Ligeians]]
-We are [[Chillu Notes/Secret histories Chilu Ver/wth/Alukite|Alukites]], Who have been set outside the law permitted by the old gods, We call each other sisters, and we possess the keys to the doors.
-We survived through the ages with different ways me and my sisters in the end what matters is seeking doors there's only one certain way to find them. Through [[Chillu Notes/Secret histories Chilu Ver/Ligeians/Ligeians]]. thats what we are, i na way shepherds. maybe the vengeance of long lost gods. maybe the tears of stone and earth itself. or perhaps curiosity of bygone era. but what is of certain is that the crimes that we've done we cannot atone for. and as such we attone in our own ways.
+What are [[Ligeians]]
+We are [[Alukite|Alukites]], Who have been set outside the law permitted by the old gods, We call each other sisters, and we possess the keys to the doors.
+We survived through the ages with different ways me and my sisters in the end what matters is seeking doors there's only one certain way to find them. Through [[Ligeians]]. thats what we are, i na way shepherds. maybe the vengeance of long lost gods. maybe the tears of stone and earth itself. or perhaps curiosity of bygone era. but what is of certain is that the crimes that we've done we cannot atone for. and as such we attone in our own ways.
 
-Who are the other [[Chillu Notes/Secret histories Chilu Ver/Ligeians/Ligeians]]
+Who are the other [[Ligeians]]
 me 
 my sister [[Echidna (Unrevealed)]]
 my sister [[Marinette (Unrevealed)]]
@@ -101,15 +101,15 @@ why does it matter to you?
 thats personal.
 dont you think its personal if im allied to them?
 i would wish to.
-oh that is great! i hoped you would be amicable for sucha thing i had just the idea for you as well, have you met the man named [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Dr Arun Peel]] before?
+oh that is great! i hoped you would be amicable for sucha thing i had just the idea for you as well, have you met the man named [[Dr Arun Peel]] before?
 yes.
-i wish that you would bring [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Dr Arun Peel]] to my club one of the nights and then me and my friends would discuss with my brethren of any further instructions you may need later.
+i wish that you would bring [[Dr Arun Peel]] to my club one of the nights and then me and my friends would discuss with my brethren of any further instructions you may need later.
 
-What is your relation to [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Dr Arun Peel]] 
-mine not too much but the great hooded princes and [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Dr Arun Peel]] have a long ongoing history
+What is your relation to [[Dr Arun Peel]] 
+mine not too much but the great hooded princes and [[Dr Arun Peel]] have a long ongoing history
 i shall say it this way, if i tell you you will never unknow this. are you ready for that sacrifice?
 nah im good
-then just know that much that i very much wish to meet [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Dr Arun Peel]]
+then just know that much that i very much wish to meet [[Dr Arun Peel]]
 
 is the spider door the same as the spider gate?
 yes
@@ -123,8 +123,8 @@ from what ive gathered no.
 I want to be come allies with the hooded princes, what do you think about that
 i think thats a noble effort.
 
-What is your relation to [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Dr Arun Peel]] ?
-well as you can see doctor [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Dr Arun Peel]] was once upon a time very long ago maybe in another history one of great hooded princes, he betrayed our kin and drawing instead of mother of ants with the thunderskin, we've been trying to come to terms with this egregious for a while. its rather hard to get a hand alone any long that is associated with the thunderskin as they are more sound than they are people.
+What is your relation to [[Dr Arun Peel]] ?
+well as you can see doctor [[Dr Arun Peel]] was once upon a time very long ago maybe in another history one of great hooded princes, he betrayed our kin and drawing instead of mother of ants with the thunderskin, we've been trying to come to terms with this egregious for a while. its rather hard to get a hand alone any long that is associated with the thunderskin as they are more sound than they are people.
 
 can i have your key?
 no.
@@ -161,9 +161,9 @@ she is of a certain curiosity lets just speak that way of her, she likes things 
 
 
 She can teach you language:
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Coptic]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Sanscrit]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Vak]]
+- [[Coptic]]
+- [[Sanscrit]]
+- [[Vak]]
 
 Chilu notes:
 - Klêidouchos = Switchman in greek

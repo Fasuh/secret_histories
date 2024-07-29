@@ -1,6 +1,6 @@
 Currency earned by cult, used for cult stuff.
 
-Most reliable way of earning this is [[Toiling]] at [[Chillu Notes/Secret histories Chilu Ver/places/The Ecdysis Club]].
+Most reliable way of earning this is [[Toiling]] at [[The Ecdysis Club]].
 
 List of coins in order from lowest value to highest:
 - [[Iron Spintria]] - 1

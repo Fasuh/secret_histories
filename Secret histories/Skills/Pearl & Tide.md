@@ -3,8 +3,8 @@
 
 
 Principles:
-1. [[Chillu Notes/Secret histories Chilu Ver/Principles/Rose]]
-2. [[Chillu Notes/Secret histories Chilu Ver/Principles/Heart]]
+1. [[Rose]]
+2. [[Heart]]
 
 Wisdoms:
 - 

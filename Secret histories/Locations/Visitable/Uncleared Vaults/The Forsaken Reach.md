@@ -2,7 +2,7 @@
 
 six challenges and at least two great challenges
 
-large amount of [[Chillu Notes/Secret histories Chilu Ver/Principles/Knock]] and a tool
+large amount of [[Knock]] and a tool
 
 ![[Pasted image 20240421190501.png]]
 

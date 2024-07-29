@@ -5,9 +5,9 @@ Horo- - Borrowed from [Ancient Greek](https://en.wikipedia.org/wiki/Ancient_Gre
 
 This Wisdom is concerned with the laws (and disagreements) of the Hours (and their emanations).
 
-upgrade in [[Chillu Notes/Secret histories Chilu Ver/places/the Montmerenzi Gallery]]
+upgrade in [[the Montmerenzi Gallery]]
 
 Chilu notes:
-- This Wisdom seems to speak about relations and disputes between [[Chillu Notes/Secret histories Chilu Ver/Hours/Hours]]
+- This Wisdom seems to speak about relations and disputes between [[Hours]]
 
-![[Chillu Notes/Secret histories 270724/Story/resources/Horomachistry.webp]]
+![[Story/resources/Horomachistry.webp]]

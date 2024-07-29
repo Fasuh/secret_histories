@@ -1,3 +1,3 @@
 Bryan Dewulf
-[[Chillu Notes/Secret histories Chilu Ver/wth/Musgrave]] Dewulf
+[[Musgrave]] Dewulf
 Gideon Dewulf

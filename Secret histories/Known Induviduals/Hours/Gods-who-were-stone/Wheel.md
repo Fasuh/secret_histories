@@ -5,11 +5,11 @@ Mentioned in:
 
 One of [[Gods-who-were-stone]] 
 
-[[Tridesma Hiera]] tells us that [[Wheel]] was consumed by [[Chillu Notes/Secret histories Chilu Ver/Principles/Moth]].
+[[Tridesma Hiera]] tells us that [[Wheel]] was consumed by [[Moth]].
 
-Possibly became [[Chillu Notes/Secret histories Chilu Ver/Principles/Moth]] if we dont take it being consumed literally.
+Possibly became [[Moth]] if we dont take it being consumed literally.
 
 Chilu notes:
-- Consumed by [[Chillu Notes/Secret histories Chilu Ver/Principles/Moth]]
-- Possibly became [[Chillu Notes/Secret histories Chilu Ver/Principles/Moth]]?
+- Consumed by [[Moth]]
+- Possibly became [[Moth]]?
 - 

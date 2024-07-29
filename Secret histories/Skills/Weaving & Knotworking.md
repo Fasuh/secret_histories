@@ -7,8 +7,8 @@ Cut a thread, and the tapestry must be healed. [[The Bosk|Bosk]] renews the weav
 Cut a thread, and the tapestry remains. [[Birdsong]] follows the thread.
 
 Principles:
-1. [[Chillu Notes/Secret histories Chilu Ver/Principles/Heart]]
-2. [[Chillu Notes/Secret histories Chilu Ver/Principles/Moth]]
+1. [[Heart]]
+2. [[Moth]]
 
 Wisdoms:
 - [[Birdsong]]

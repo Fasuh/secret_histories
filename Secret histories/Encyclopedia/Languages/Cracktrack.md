@@ -1,7 +1,7 @@
-![[Chillu Notes/Secret histories 270724/Story/resources/Pasted image 20240519212527.png]]
+![[Story/resources/Pasted image 20240519212527.png]]
 
 Taught by:
-- [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Fr Stanislav John Schaller]]
+- [[Fr Stanislav John Schaller]]
 
 A primal Language
 

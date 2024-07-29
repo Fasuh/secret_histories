@@ -6,7 +6,7 @@ This is a [[Vault]]
 This was cleared for a loot of:
 - [[A Sexton's Secret]]
 - [[Occult Scrap]]
-- [[Chillu Notes/Secret histories Chilu Ver/Books/The Viennese Conundra]]
+- [[The Viennese Conundra]]
 - [[Memory Regret]]
 - [[A Furtive Truth]]
 - [[Never-No]]

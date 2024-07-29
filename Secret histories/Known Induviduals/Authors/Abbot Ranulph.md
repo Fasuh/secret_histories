@@ -1,4 +1,4 @@
-An author of [[Chillu Notes/Secret histories Chilu Ver/Books/Against Vitruvius]]
+An author of [[Against Vitruvius]]
 
 Chilu notes:
 - 

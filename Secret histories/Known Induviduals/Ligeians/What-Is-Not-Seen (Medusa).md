@@ -1,4 +1,9 @@
-![[Pasted image 20240610211007.png]]
+---
+aliases:
+  - Coil Queen
+  - Medusa
+---
+
 Oldest ligeian that is dead yet still alive
 
 You need to feed her something (the red icon)
@@ -19,7 +24,7 @@ Then it matters not really
 Can i have your Key?
 Why you already have penetrated the woods.
 
-How do i progress further into the [[Chillu Notes/Secret histories Chilu Ver/places 1/Mansus]]?
+How do i progress further into the [[Mansus]]?
 The best way is to keep exploring deeper and deeper with secrets uncover
 an easier way of course is to gain the attention of an hour and guide you through it
 but i wouldnt trust them, they are capricious

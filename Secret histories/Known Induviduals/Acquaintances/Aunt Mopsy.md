@@ -1,9 +1,9 @@
 #Greek #Phrygian #Hyksos #Nectar #Acquaintence 
 
-Collector of proverbs, connoisseur of wines, herald of the [[Chillu Notes/Secret histories Chilu Ver/Hours/Hours|Hour]] called [[Chillu Notes/Secret histories Chilu Ver/Hours/gods from nowhere/Mare-in-the-Tree]].
+Collector of proverbs, connoisseur of wines, herald of the [[Hours|Hour]] called [[gods from nowhere/Mare-in-the-Tree]].
 
 That publisher in Kerisham. I promised her if she did right by me, she'd never see me again. Well, dear, a promise is a promise, but a story is a story. If you let me touch those nectar books, I promise I'll give it back.
-i gave her [[Chillu Notes/Secret histories Chilu Ver/Books/Cross' Savour-Secret|Cross' Savour-Secret]] and she fkin kidnapped it.
+i gave her [[Cross' Savour-Secret|Cross' Savour-Secret]] and she fkin kidnapped it.
 
 do you know about a secret that has been hidden?
 Plenty plenty plenty. Went through many recipes that I have written down. Go through the Woods and you can just take a Shovel. below the Roots and the Thorns. but ofc the greatest secrets are the things the hours themselves wish to hid you know of calyptra dont you?
@@ -36,11 +36,11 @@ tell me all you can about the vagabond.
 what is there to say she travels she sees and she talks lots....... shes sometimes sits down with one of the ligeians and talks all of the new longs that entered teh world as well once upon the time but not the roost no no the roost is only for those of teh feathery nature, even though they lack them.
 
 Can teach:
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Hyksos]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Greek]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Phrygian]]
+- [[Hyksos]]
+- [[Greek]]
+- [[Phrygian]]
 
 Chilu notes:
-- [[Chillu Notes/Secret histories Chilu Ver/Hours/gods from nowhere/Mare-in-the-Tree]] is considered a [[Chillu Notes/Secret histories Chilu Ver/Hours/gods from nowhere/gods-from-Nowhere]] who got beaten up by current [[Chillu Notes/Secret histories Chilu Ver/wth/gods-who-are]]
+- [[gods from nowhere/Mare-in-the-Tree]] is considered a [[gods from nowhere/gods-from-Nowhere]] who got beaten up by current [[gods-who-are]]
 
 ![[Pasted image 20240519212041.png]]

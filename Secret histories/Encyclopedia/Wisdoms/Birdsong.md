@@ -5,4 +5,4 @@ Music, Riddles, Miscellanea. 'Less of a Wisdom, more a body of gossip hallowed b
 Chilu notes:
 - 
 
-![[Chillu Notes/Secret histories 270724/Story/resources/Birdsong.webp]]
+![[Story/resources/Birdsong.webp]]

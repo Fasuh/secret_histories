@@ -1,8 +1,8 @@
 #Moth #Sky #Horomachistry #Hushery #Curses #Skill 
 
 Principles:
-- [[Chillu Notes/Secret histories Chilu Ver/Principles/Moth]] x2
-- [[Chillu Notes/Secret histories Chilu Ver/Principles/Sky]]
+- [[Moth]] x2
+- [[Sky]]
 
 Wisdoms:
 - [[Horomachistry]]

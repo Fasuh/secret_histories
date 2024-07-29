@@ -4,4 +4,4 @@
 
 The principle of the forge transforms and destroys.
 
-![[Chillu Notes/Secret histories 270724/Story/resources/Forge.webp]]
+![[Story/resources/Forge.webp]]

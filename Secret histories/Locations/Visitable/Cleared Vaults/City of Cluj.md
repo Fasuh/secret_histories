@@ -13,10 +13,10 @@ Seems like a [[Vault]]
 
 Reward:
 
-![[Chillu Notes/Secret histories 270724/Story/resources/Pasted image 20240505203715.png]]
+![[Story/resources/Pasted image 20240505203715.png]]
 
 - [[Icon of St Agnes]]
 - [[Vista Salt]]
-- [[Chillu Notes/Secret histories Chilu Ver/Books/Cardea's Delights]]
-- [[Chillu Notes/Secret histories Chilu Ver/Books/Hunting Journals of Bryan Dewulf]]
-- [[Chillu Notes/Secret histories Chilu Ver/Books/Unhatched Hymns]]
+- [[Cardea's Delights]]
+- [[Hunting Journals of Bryan Dewulf]]
+- [[Unhatched Hymns]]

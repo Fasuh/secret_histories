@@ -1,3 +1,9 @@
+---
+aliases:
+  - Morgen
+---
+
+
 ![[Mile Margot Matutine.png]]
 # Conversation
 
@@ -21,7 +27,7 @@
 >You cant use your mouth. Words cannot be spoken beyond the white gate.
 ## Ive never before needed words
 >well then, amuse me, first bring me something that strayed in from another history
-## Brings [[Chillu Notes/Secret histories Chilu Ver/Minions/Strix|Strix]] 
+## Brings [[Strix|Strix]] 
 >Now present me with someone that wasn't what they were meant to be.
 
 ## Which Hour is Snow

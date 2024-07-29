@@ -4,11 +4,11 @@ Mentioned in:
 
 One of [[Gods-who-were-stone]] 
 
-[[Tridesma Hiera]] tells us that [[Tide]] was consumed by [[Chillu Notes/Secret histories Chilu Ver/Principles/Grail]].
+[[Tridesma Hiera]] tells us that [[Tide]] was consumed by [[Grail]].
 
-Possibly became [[Chillu Notes/Secret histories Chilu Ver/Principles/Grail]] if we dont take it being consumed literally.
+Possibly became [[Grail]] if we dont take it being consumed literally.
 
 Chilu notes:
-- Consumed by [[Chillu Notes/Secret histories Chilu Ver/Principles/Grail]]
-- Possibly became [[Chillu Notes/Secret histories Chilu Ver/Principles/Grail]]?
+- Consumed by [[Grail]]
+- Possibly became [[Grail]]?
 - 

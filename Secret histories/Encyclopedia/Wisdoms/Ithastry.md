@@ -8,4 +8,4 @@ Alchemy, Metallurgy, pyrotechnics: Ithastry is sometimes called the Art that Alt
 Chilu notes:
 - 
 
-![[Chillu Notes/Secret histories 270724/Story/resources/Ithastry.webp]]
+![[Story/resources/Ithastry.webp]]

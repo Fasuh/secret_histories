@@ -11,7 +11,7 @@ gain an influence
 
 | Place            | Principle    | Result               |
 | ---------------- | ------------ | -------------------- |
-| [[Chillu Notes/Secret histories Chilu Ver/places/City of Cluj]] | 12x [[Chillu Notes/Secret histories Chilu Ver/Principles/Moon]] | [[An Exalting Heat]] |
+| [[City of Cluj]] | 12x [[Moon]] | [[An Exalting Heat]] |
 
 ## Upgrading
 

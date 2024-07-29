@@ -1,3 +1,3 @@
-![[Phlogisticant.png]] 
+![[../../Story/resources/Pasted image 20240719023116.png]] - invocation
 
-![[../resources/Pasted image 20240719022923.png]]
+![[Phlogisticant.png]] 

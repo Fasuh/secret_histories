@@ -17,9 +17,9 @@ The [[Rite of the Crucible Soul|Rite of the Crucible Soul]] and the [[A Delightf
 i dont see why you would but you could.
 
 Can teach:
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Deep Mandaic]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Arameic]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Latin]]
+- [[Deep Mandaic]]
+- [[Arameic]]
+- [[Latin]]
 
 Chilu notes:
 - 
