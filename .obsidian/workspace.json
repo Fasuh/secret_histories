@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Notoriety",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
