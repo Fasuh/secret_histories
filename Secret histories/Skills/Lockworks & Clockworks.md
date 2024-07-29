@@ -13,19 +13,19 @@ every one of them must have a purpose
 
 a key to every lock
 
-an understanding for every [[Chillu Notes/Secret histories Chilu Ver/Hours/Hours|Hour]]
+an understanding for every [[Hours|Hour]]
 
 machines are not that much unlike people
 
 unlike the carapace 
 
-you could be considered their [[Chillu Notes/Secret histories Chilu Ver/Hours/Hours|Hour]], their god, breathing their soul into them.
+you could be considered their [[Hours|Hour]], their god, breathing their soul into them.
 
 thats [[Ithastry]], thats the creation of monsters.
 
 Principles:
-1. [[Chillu Notes/Secret histories Chilu Ver/Principles/Knock]]
-2. [[Chillu Notes/Secret histories Chilu Ver/Principles/Sky]]
+1. [[Knock]]
+2. [[Sky]]
 
 Wisdoms:
 - [[Ithastry]]

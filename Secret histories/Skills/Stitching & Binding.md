@@ -9,8 +9,8 @@ A deft enough binding might heal anything: flesh; spirit; song; stone. That woul
 Dreaming: bring back something long ago wasted away
 
 Principles:
-1. [[Chillu Notes/Secret histories Chilu Ver/Principles/Grail]]
-2. [[Chillu Notes/Secret histories Chilu Ver/Principles/Heart]]
+1. [[Grail]]
+2. [[Heart]]
 
 Wisdoms:
 - [[Ithastry]]

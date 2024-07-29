@@ -24,4 +24,3 @@ But I asked about the Colonel's Names and the respond was can be used to summon 
 
 ## Asks about his scars????
 >He doest care
-## 

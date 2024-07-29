@@ -16,9 +16,9 @@ The nature is quite obvious in some places. in others they are rather curious, b
 and i may not or rather should not be saying this but there is always a chance no matter how miniscule that if you know enough of the invi you may usurp an hour itself for yourself. that is what the invisible arts are, power unmitigated beyond imagination and beyond boundaries, that is why the mansus has no walls.
 
 Can teach:
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Ramsund]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Vak]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Arameic]]
+- [[Ramsund]]
+- [[Vak]]
+- [[Arameic]]
 
 Chilu notes:
 - 

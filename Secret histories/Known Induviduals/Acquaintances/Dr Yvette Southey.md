@@ -3,18 +3,18 @@
 
 ![[Pasted image 20240421190325.png]]
 She can teach you languages:
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Latin]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Ericapaean]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Kernewek Henavek]] 
+- [[Latin]]
+- [[Ericapaean]]
+- [[Kernewek Henavek]] 
 
 ______
 # Conversation
 
->There are 5 [[Chillu Notes/Secret histories Chilu Ver/Histories/Histories]], barely anyone can interact with them [[Chillu Notes/Secret histories Chilu Ver/wth/Alexander the Great]] spoke about how to reach from one end to other. Hooded princes, things that in time you will realize. 
+>There are 5 [[Histories]], barely anyone can interact with them [[Alexander the Great]] spoke about how to reach from one end to other. Hooded princes, things that in time you will realize. 
 
->in the day of the [[Chillu Notes/Secret histories Chilu Ver/wth/Lithomachy]] when [[Chillu Notes/Secret histories Chilu Ver/Hours/Gods-who-were-stone/gods-from-stone]] have fought with [[Chillu Notes/Secret histories Chilu Ver/wth/gods of flesh and blood]]they finally were able to utilize that weapon, the weapon of the words, and that is how we [[Chillu Notes/Secret histories Chilu Ver/wth/Long]] were able to become that which may crawl up beyond [[Chillu Notes/Secret histories Chilu Ver/wth/The Bounds]] and the [[Chillu Notes/Secret histories Chilu Ver/wth/Wood]]s and [[Chillu Notes/Secret histories Chilu Ver/Principles/Knock]] at the [[Peacock Door]].
+>in the day of the [[Lithomachy]] when [[gods-from-stone]] have fought with [[gods of flesh and blood]]they finally were able to utilize that weapon, the weapon of the words, and that is how we [[Long]] were able to become that which may crawl up beyond [[The Bounds]] and the [[Wood]]s and [[Knock]] at the [[Peacock Door]].
 
->You know that immortals - [[Chillu Notes/Secret histories Chilu Ver/wth/Long]] - can't have children. Bad things happen if they try. What if a pre-immortal had children? Would there be anything special about those? [[Chillu Notes/Secret histories Chilu Ver/wth/Ivory Dawn]] likes to think so. I like to think not. And if I say anything more about that, I'll start to feel like a fool.
+>You know that immortals - [[Long]] - can't have children. Bad things happen if they try. What if a pre-immortal had children? Would there be anything special about those? [[Ivory Dawn]] likes to think so. I like to think not. And if I say anything more about that, I'll start to feel like a fool.
 
  >I can't imagine how anyone might begin to heal their flesh. But if they decided he wants to speak with me, I have some inkling now of what I might need to understand.
  
@@ -30,14 +30,14 @@ ______
 
 ______
 # Questions
-#### What is [[Chillu Notes/Secret histories Chilu Ver/wth/The Crime of the Sky|The crime of sky]]?
->[[Chillu Notes/Secret histories Chilu Ver/wth/The Crime of the Sky]] is a law of the House and the universe, which forbids immortal beings from consuming their offspring, lest they become monstrous beings known as [[Chillu Notes/Secret histories Chilu Ver/wth/Alukite|Alukites]]. However, the act of procreation makes the former almost inevitable, as the parents develop an irresistible urge to consume them. Even the [[Chillu Notes/Secret histories Chilu Ver/Hours/Hours]] are subject to this danger, and so are forced to restrain their passions.
-#### Is there any difference between [[Chillu Notes/Secret histories Chilu Ver/wth/Alukite]] and [[Chillu Notes/Secret histories Chilu Ver/Ligeians/Ligeians|ligeian]]?
->Some would say no, but there is. The [[Chillu Notes/Secret histories Chilu Ver/Ligeians/Ligeians]] are outside of the law
-#### What are [[Games/Secret histories/wth/Worms|the Worms]]?
->[[Games/Secret histories/wth/Worms|The Worms]] are native inhabitants of [[Chillu Notes/Secret histories Chilu Ver/places 1/Nowhere]]. There they feast upon and breed inside the bodies of dead [[Chillu Notes/Secret histories Chilu Ver/Hours/Hours]], though they are always eager to leave and expand their feeding grounds. [[Games/Secret histories/wth/Worms|The Worms]] enter the Wake where the skin of the world is thinned, and then enter mortals (and perhaps not only mortals) through the spaces in their skin. Their insatiability poses an existential threat to reality, for it is said "if they complete their work, the [[Chillu Notes/Secret histories Chilu Ver/places 1/Mansus]] will be [[Chillu Notes/Secret histories Chilu Ver/places 1/Nowhere]], one day. They feast upon the [[Chillu Notes/Secret histories Chilu Ver/Hours/Sun-in-Splendour|Sun-in-Splendour's]] and the [[Chillu Notes/Secret histories Chilu Ver/Hours/Seven Coils|Seven-Coils]] body and breed upon them.
+#### What is [[The Crime of the Sky|The crime of sky]]?
+>[[The Crime of the Sky]] is a law of the House and the universe, which forbids immortal beings from consuming their offspring, lest they become monstrous beings known as [[Alukite|Alukites]]. However, the act of procreation makes the former almost inevitable, as the parents develop an irresistible urge to consume them. Even the [[Hours]] are subject to this danger, and so are forced to restrain their passions.
+#### Is there any difference between [[Alukite]] and [[Ligeians|ligeian]]?
+>Some would say no, but there is. The [[Ligeians]] are outside of the law
+#### What are [[Worms|the Worms]]?
+>[[Worms|The Worms]] are native inhabitants of [[Nowhere]]. There they feast upon and breed inside the bodies of dead [[Hours]], though they are always eager to leave and expand their feeding grounds. [[Worms|The Worms]] enter the Wake where the skin of the world is thinned, and then enter mortals (and perhaps not only mortals) through the spaces in their skin. Their insatiability poses an existential threat to reality, for it is said "if they complete their work, the [[Mansus]] will be [[Nowhere]], one day. They feast upon the [[Sun-in-Splendour|Sun-in-Splendour's]] and the [[Seven Coils|Seven-Coils]] body and breed upon them.
 #### Who is the Coil Queen?
->The coil queen in many people consider that name to be ubiquitous with the heinous [[Chillu Notes/Secret histories Chilu Ver/Ligeians/Ligeians|ligeian]] [[Medusa]].
+>The coil queen in many people consider that name to be ubiquitous with the heinous [[Ligeians|ligeian]] [[What-Is-Not-Seen (Medusa)|Medusa]].
 #### Where to acquire passion?
 >Passion is what you believe in most
 #### How to contact Medusa?
@@ -69,6 +69,6 @@ well technically intercalate works, it consumes all
 ______
 
 Chilu notes:
-- The weapon of words lets [[Chillu Notes/Secret histories Chilu Ver/wth/Long]] crawl beyond [[Chillu Notes/Secret histories Chilu Ver/wth/The Bounds]] ?
-- [[Chillu Notes/Secret histories Chilu Ver/wth/Alexander the Great]] spoken about how to travel between [[Chillu Notes/Secret histories Chilu Ver/Histories/Histories]] 
-- [[Chillu Notes/Secret histories Chilu Ver/wth/Lithomachy]] was a battle between [[Chillu Notes/Secret histories Chilu Ver/Hours/Gods-who-were-stone/gods-from-stone]] and [[Chillu Notes/Secret histories Chilu Ver/wth/gods of flesh and blood]]
+- The weapon of words lets [[Long]] crawl beyond [[The Bounds]] ?
+- [[Alexander the Great]] spoken about how to travel between [[Histories]] 
+- [[Lithomachy]] was a battle between [[gods-from-stone]] and [[gods of flesh and blood]]

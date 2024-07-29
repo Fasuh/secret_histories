@@ -1,6 +1,6 @@
 #Currency #Toil 
 
-![[Chillu Notes/Secret histories 270724/Story/resources/Pasted image 20240421182815.png]]
+![[Story/resources/Pasted image 20240421182815.png]]
 
 Occult coin - Beliefs and thoughts otherworldly something that doesn't belong in the world that you had before
 

@@ -1,2 +1,2 @@
 ????
-mentioned by [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Dr Arun Peel]]
+mentioned by [[Dr Arun Peel]]

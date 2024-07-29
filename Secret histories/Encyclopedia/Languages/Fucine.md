@@ -1,6 +1,6 @@
 #Heart #Knock #Hushery #Ithastry #Language #Skill 
 
-![[Chillu Notes/Secret histories 270724/Story/resources/Pasted image 20240506010941.png]]
+![[Story/resources/Pasted image 20240506010941.png]]
 
 ![[Pasted image 20240505211721.png]]
 
@@ -12,5 +12,5 @@ There is a story known to smiths: of a Queen whose realm was invaded by a great 
 
 Can be taught by:
 - [[Dr Serena Blackwood]]
-- [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Dr Arun Peel]]
-- [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Count Jannings]]
+- [[Dr Arun Peel]]
+- [[Count Jannings]]

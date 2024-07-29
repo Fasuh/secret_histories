@@ -1,5 +1,5 @@
 Mentioned in:
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Hyksos]]
+- [[Hyksos]]
 - [[Nyctodromy]]
 - [[Edicts Liminal]]
 - [[A Howling in the heart]]
@@ -7,12 +7,12 @@ Mentioned in:
 
 It is said that [[Mansus]] is a name referring to the invisible realm as a whole and to a specific region - [[House of the Sun]]. 
 
-Mansus has no walls, its separated by the [[Chillu Notes/Secret histories Chilu Ver/wth/Wood]].
+Mansus has no walls, its separated by the [[Wood]].
 
-[[Edicts Liminal]] tells us how a city with a walls of shining [[Chillu Notes/Secret histories Chilu Ver/Hours/Gods-who-were-stone/Flint]] could be raised there.
+[[Edicts Liminal]] tells us how a city with a walls of shining [[Flint]] could be raised there.
 
 Known locations within [[Mansus]]:
-- [[Games/Secret histories/wth/Glory]]
+- [[Glory]]
 - [[Concursum]]
 
 Chilu notes:

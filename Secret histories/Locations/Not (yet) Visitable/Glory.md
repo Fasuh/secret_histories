@@ -1,1 +1,1 @@
-The [[Games/Secret histories/wth/Glory]] is the apex of the [[House of the Sun]], an ultimate source of Light and enlightenment. It is the peak of the [[Chillu Notes/Secret histories Chilu Ver/Principles/Lantern]] principle, and perhaps the aspects themselves.
+The [[Glory]] is the apex of the [[House of the Sun]], an ultimate source of Light and enlightenment. It is the peak of the [[Lantern]] principle, and perhaps the aspects themselves.

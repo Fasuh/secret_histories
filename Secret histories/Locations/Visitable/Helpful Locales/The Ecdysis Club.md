@@ -6,4 +6,4 @@ Used to upgrade [[The Bosk]]
 
 Working here can give you occult money, i.e. [[Bronze Spintria]]
 
-Visiting this place can yield [[Memory Satisfaction]], with high enough [[Chillu Notes/Secret histories Chilu Ver/Principles/Grail]] seems like you are getting [[Memory Hunger]]
+Visiting this place can yield [[Memory Satisfaction]], with high enough [[Grail]] seems like you are getting [[Memory Hunger]]

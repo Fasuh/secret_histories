@@ -3,9 +3,9 @@
 Dr Ibn al-Adim, called the Aleppine, has an interest in overlooked history.
 
 Can teach:
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Sanscrit]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Greek]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Phrygian]]
+- [[Sanscrit]]
+- [[Greek]]
+- [[Phrygian]]
 
 Chilu notes:
 - She is just like me fr fr

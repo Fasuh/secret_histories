@@ -4,4 +4,4 @@ All conquest occurs at the Edge. One who dwells there is blind, and cannot be wo
 
 Edge is the principle of battle and of struggle.
 
-![[Chillu Notes/Secret histories 270724/Story/resources/Edge.webp]]
+![[Story/resources/Edge.webp]]

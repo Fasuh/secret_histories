@@ -1,7 +1,7 @@
 Mentioned in:
-- [[Chillu Notes/Secret histories Chilu Ver/Books/The Viennese Conundra]]
+- [[The Viennese Conundra]]
 
-[[Chillu Notes/Secret histories Chilu Ver/Books/The Viennese Conundra]] portrays how [[Vienna]] is a place of heavy occultism and new [[Chillu Notes/Secret histories Chilu Ver/Ligeians/Ligeians]]
+[[The Viennese Conundra]] portrays how [[Vienna]] is a place of heavy occultism and new [[Ligeians]]
 
 Chilu notes:
 - 

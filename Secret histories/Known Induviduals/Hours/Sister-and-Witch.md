@@ -1,11 +1,11 @@
 Mentioned in:
 - [[A Howling in the heart]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Ramsund|Ramsund*]]
+- [[Ramsund|Ramsund*]]
 
 They are mentioned by this name only in one place. Its heavily suggested they are two people. 
 
 [[A Howling in the heart]] says how they are weaving two paths into one. 
-Additionaly [[Chillu Notes/Secret histories Chilu Ver/Languages/Ramsund]] language mentions how one of [[Twins]] have stolen roads from crossroads.
+Additionaly [[Ramsund]] language mentions how one of [[Twins]] have stolen roads from crossroads.
 
 There is a possibility that they are [[Twins]]
 There is lower possibility that they are also [[Hour of Grail and Moth]] and [[Hour of Moth and Grail]]

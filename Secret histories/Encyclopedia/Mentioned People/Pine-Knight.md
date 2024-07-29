@@ -1,1 +1,1 @@
-Spoiled by Nam that its [[Chillu Notes/Secret histories Chilu Ver/Hours/Thunderskin]]
+Spoiled by Nam that its [[Thunderskin]]

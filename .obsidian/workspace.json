@@ -13,27 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret histories/Story/Plans.md",
+                "file": "Secret histories/memories/Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdf02bf545d7a1d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secret histories/Skills/Wolf Stories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5818e8db56ea050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secret histories/Known Induviduals/Ligeians/Professor Rowena Hengerst (Rowena).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a4eaa4d49240e42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secret histories/Known Induviduals/Ligeians/Mille Margot Matutine (Morgen).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "4d5e8c09956e683c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "05884b08867aa036",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret histories/Story/Plans.md",
+                "file": "Secret histories/Skills/Wolf Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret histories/Story/Plans.md",
+                "file": "Secret histories/Skills/Wolf Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret histories/Story/Plans.md"
+                "file": "Secret histories/Skills/Wolf Stories.md"
               }
             }
           }
@@ -160,54 +183,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d511d7035e03e7d2",
+  "active": "bdf02bf545d7a1d1",
   "lastOpenFiles": [
-    "Secret histories/Story/Game Mechanics/Misc/Notoriety.md",
-    "Secret histories/Story/Game Mechanics/Misc/Work.md",
-    "Secret histories/Story/Game Mechanics/Misc/Vault.md",
-    "Welcome.md",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Wist.png",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Trist.png",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Shapt.png",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Setre.png",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Mettle.png",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Phost.png",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Kull.png",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Health.png",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Ereb.png",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Chor.png",
+    "Secret histories/Skills/Weaving & Knotworking.md",
+    "Secret histories/Skills/Watchman's Paradoxes.md",
+    "Secret histories/Skills/Tridesma Hiera.md",
+    "Secret histories/Skills/Transformations & Liberations.md",
+    "Secret histories/Skills/The Great Signs and the Great Scars.md",
+    "Secret histories/Skills/Surgeries & Exsanguinations.md",
+    "Secret histories/Skills/Stone Stories.md",
+    "Secret histories/Skills/Stitching & Binding.md",
+    "Secret histories/Skills/Spices & Savours.md",
+    "Secret histories/Skills/Solutions & Separations.md",
+    "Secret histories/Skills/Snow Stories.md",
+    "Secret histories/Skills/Sights & Sensations.md",
+    "Secret histories/Skills/Sickle & Eclipse.md",
+    "Secret histories/Skills/Sharps.md",
+    "Secret histories/Skills/Serpents & Venoms.md",
+    "Secret histories/Skills/Sea Stories.md",
+    "Secret histories/Skills/Sacra Solis Invicti.md",
+    "Secret histories/Skills/Sacra Limiae.md",
+    "Secret histories/Skills/Rites of the Roots.md",
+    "Secret histories/Skills/Ripples & Barriers.md",
+    "Secret histories/Skills/Ragged Crossroads.md",
+    "Secret histories/Skills/Resurgences & Emergences.md",
+    "Secret histories/Skills/Quenching & Quellings.md",
+    "Secret histories/Skills/Pyroglyphics.md",
+    "Secret histories/Skills/Purifications & Exaltations.md",
+    "Secret histories/Skills/Preliminal Meter.md",
+    "Secret histories/Rituals/effects",
+    "Secret histories/Story/Soul Pieces",
+    "Secret histories/Story/resources/old_res/Pasted image 20240505185837.png",
+    "Secret histories/Story/resources/old_res/Pasted image 20240505185453.png",
+    "Secret histories/Story/resources/old_res/Pasted image 20240505185344.png",
+    "Secret histories/Story/resources/old_res/Pasted image 20240505185023.png",
+    "Secret histories/Story/resources/old_res/Pasted image 20240505184546.png",
+    "Secret histories/Story/resources/old_res/Pasted image 20240505184231.png",
+    "Secret histories/Story/resources/old_res/Pasted image 20240505183824.png",
+    "Secret histories/Story/resources/old_res/Pasted image 20240505183408.png",
+    "Secret histories/Story/resources/old_res/Pasted image 20240421234045.png",
+    "Secret histories/Story/resources/old_res/Pasted image 20240421233744.png",
+    "Secret histories/Story/resources/old_res",
+    "Chillu Notes/Secret histories Chilu Ver/wth",
+    "Chillu Notes/Secret histories Chilu Ver",
+    "Chillu Notes",
     "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards",
     "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Wisdoms",
     "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards",
     "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Principles",
-    "Secret histories/Story/resources/My Notes/screenshot/files 2",
-    "Secret histories/Story/resources/My Notes/screenshot/files 1",
-    "Secret histories/Story/resources/My Notes/screenshots/tools",
-    "Secret histories/Story/resources/My Notes/screenshots/Tokens",
-    "Secret histories/Story/resources/My Notes/screenshots/Skills",
-    "Secret histories/Story/resources/My Notes/screenshots/Places",
-    "Secret histories/Story/Game Mechanics/Toils/Tin Spintria.md",
-    "Secret histories/Story/Game Mechanics/Toils/Spintria.md",
-    "Secret histories/Story/Game Mechanics/Toils/Silver Spintria.md",
-    "Secret histories/Story/Game Mechanics/Toils/Iron Spintria.md",
-    "Secret histories/Story/Game Mechanics/Toils/Gold Spintria.md",
-    "Secret histories/Story/Game Mechanics/Toils/Bronze Spintria.md",
-    "Secret histories/Story/Game Mechanics/vault descriptions/vault descriptions.md",
-    "Secret histories/Story/Game Mechanics/Money/Twopence.md",
-    "Secret histories/Story/Game Mechanics/Money/Threepence.md",
-    "Secret histories/Story/Game Mechanics/Money/Ten Shilling Note.md",
-    "Secret histories/Story/Game Mechanics/Money/Sixpence.md",
-    "Secret histories/Story/Game Mechanics/Money/Shilling.md",
-    "Secret histories/Story/Game Mechanics/Money/Pence.md",
-    "Secret histories/Story/Game Mechanics/Money/Seven Pound Note.md",
-    "Secret histories/Story/Game Mechanics/Money/Halfcrown.md",
-    "Secret histories/Story/Game Mechanics/Money/One Pound Note.md",
-    "Secret histories/Story/Game Mechanics/Money/Florin.md",
-    "Secret histories/Story/Game Mechanics/Money/Five Pound Note.md",
-    "Secret histories/Story/Game Mechanics/Misc/Tenative Evidence.md",
-    "Secret histories/Story/Game Mechanics/Money/Crown.md",
-    "Secret histories/Story/Game Mechanics/Actions/Travelling.md",
-    "Secret histories/Story/Game Mechanics/Misc/Ethos Token.md",
     "Secret histories/Story/Ligeans.canvas",
     "Secret histories/Story/Connections.canvas"
   ]

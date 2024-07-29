@@ -1,8 +1,8 @@
 #Grail #Knock #Horomachistry #Hushery #Skill 
 
-> He hints at the '[[Chillu Notes/Secret histories Chilu Ver/wth/Amethyst Vessel]]' which can be sanctified by the [[The Great Signs and the Great Scars]] in the presence of [[Chillu Notes/Secret histories Chilu Ver/Principles/Knock]]...
+> He hints at the '[[Amethyst Vessel]]' which can be sanctified by the [[The Great Signs and the Great Scars]] in the presence of [[Knock]]...
 
-- [[Chillu Notes/Secret histories Chilu Ver/Books/Cardea's Delights]]
+- [[Cardea's Delights]]
 
 Some glyphs are too obscure to reside in any language, but too potent to remain unwritten.
 

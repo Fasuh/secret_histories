@@ -5,4 +5,4 @@ It is not always wise to listen._
 
 The nocturnal, the forgotten.
 
-![[Chillu Notes/Secret histories 270724/Story/resources/Moon.webp]]
+![[Story/resources/Moon.webp]]

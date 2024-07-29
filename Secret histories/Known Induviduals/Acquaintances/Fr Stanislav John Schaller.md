@@ -20,9 +20,9 @@ You know I had to manage Galmier's reincorporation, up in the mountains by the G
 >traversing to lakesides, seasides, places close to the water, for we all know at least that follow them, that they are the sea twins.
 
 Can teach:
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Cracktrack]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Akkadian]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Sanscrit]]
+- [[Cracktrack]]
+- [[Akkadian]]
+- [[Sanscrit]]
 
 Chilu notes:
 - 

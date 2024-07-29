@@ -4,6 +4,6 @@ Chilu notes:
 - 
 
 Written in:
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Akkadian]]
+- [[Akkadian]]
 
 ![[Pasted image 20240421195354.png]]

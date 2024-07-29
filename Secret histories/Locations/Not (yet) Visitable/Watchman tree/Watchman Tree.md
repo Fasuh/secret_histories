@@ -7,4 +7,4 @@ Mentioned in:
 
 Chilu notes:
 - It seems that the [[Watchman Tree]] sprang from ashes as mentioned in [[Purifications & Exaltations]] and [[Glazery & Lightsmithing]]
-	- It could mean also that [[Chillu Notes/Secret histories Chilu Ver/Hours/Madrugad]] is [[Watchman]]
+	- It could mean also that [[Madrugad]] is [[Watchman]]

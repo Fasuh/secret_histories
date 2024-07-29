@@ -1,6 +1,6 @@
 #Lantern #Shabazine #Book 
 
-Langauge: [[Chillu Notes/Secret histories Chilu Ver/Languages/Shabazine]]
+Langauge: [[Shabazine]]
 
 Hymns attributed to Saint Lucia the Eyeless, patron of glassworkers and Name of the Hour called Meniscate.
 

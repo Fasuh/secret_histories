@@ -32,9 +32,9 @@ the knowledge.
 white door isnt as thicc as people claim to be
 
 Can teach:
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Hyksos]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Deep Mandaic]]
-- [[Chillu Notes/Secret histories Chilu Ver/Languages/Latin]]
+- [[Hyksos]]
+- [[Deep Mandaic]]
+- [[Latin]]
 
 Chilu notes:
 - 

@@ -5,4 +5,4 @@ Illuminates purify the self and its surroundings. Eventually, they often cease t
 Chilu notes:
 - 
 
-![[Chillu Notes/Secret histories 270724/Story/resources/Illumination.webp]]
+![[Story/resources/Illumination.webp]]

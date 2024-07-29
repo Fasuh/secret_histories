@@ -15,6 +15,6 @@ You can change one commited wisdom.
 
 ![[A Shaping Chant.png]]
 
-![[Chillu Notes/Secret histories 270724/Story/resources/Pasted image 20240714224016.png]] - this results in 
+![[Story/resources/Pasted image 20240714224016.png]] - this results in 
 
 ![[Secret histories/Story/resources/Pasted image 20240724205603.png]]

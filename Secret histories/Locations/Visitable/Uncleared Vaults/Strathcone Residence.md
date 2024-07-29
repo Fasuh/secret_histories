@@ -1,7 +1,7 @@
 #Vault #Unexplored 
 
 4x minor trials
-a lot of [[Chillu Notes/Secret histories Chilu Ver/Principles/Moon]] or [[Chillu Notes/Secret histories Chilu Ver/Principles/Rose]]
+a lot of [[Moon]] or [[Rose]]
 
 ![[Pasted image 20240421185238.png]]
 

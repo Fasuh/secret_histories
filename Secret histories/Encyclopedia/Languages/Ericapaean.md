@@ -1,6 +1,6 @@
 #Lantern #Winter #Hushery #Illumination #Language #Skill 
 
-![[Chillu Notes/Secret histories 270724/Story/resources/Pasted image 20240506012230.png]]
+![[Story/resources/Pasted image 20240506012230.png]]
 
 ![[Pasted image 20240519200347.png]]
 
@@ -11,8 +11,8 @@ There is a story told by students of silence: that a great and golden King held 
 There is a story told by students of light: that a great and golden King held the only key to his deepest prison cell. One day he asked his minister to make eight copies, and distribute them among the people. 'But Sire,' the minister said, 'if a rebel contrives to enter our palace, might they not release their confederates?' 'They might,' answered the King. 'But all kingdoms fall, and one day I might myself seek release from that cell.' [[Illumination|Illumination]]
 
 Taught by:
-- [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Count Jannings]]
-- [[Chillu Notes/Secret histories Chilu Ver/Acquaintences/Dr Yvette Southey]]
+- [[Count Jannings]]
+- [[Dr Yvette Southey]]
 
 Chilu notes:
 -  Is the king a vampire?
