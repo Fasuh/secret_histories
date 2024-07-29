@@ -1,1 +1,0 @@
-![[../Story/resources/Pasted image 20240728184749.png]]

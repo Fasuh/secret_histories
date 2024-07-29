@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret histories 270724/Story/Game Mechanics/Misc/Notoriety.md",
+                "file": "Secret histories/Story/Game Mechanics/Misc/Notoriety.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Secret histories/Story/Game Mechanics/Misc/Notoriety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Secret histories/Story/Game Mechanics/Misc/Notoriety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Secret histories/Story/Game Mechanics/Misc/Notoriety.md"
+              }
             }
           }
         ]
@@ -157,55 +161,55 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "05884b08867aa036",
+  "active": "e1c7e8a7e5178b14",
   "lastOpenFiles": [
-    "Secret histories 270724/Story/Game Mechanics/Misc/Notoriety.md",
-    "Secret histories 270724/Story/Game Mechanics/Misc/Work.md",
-    "Secret histories 270724/Story/Game Mechanics/Misc/Vault.md",
+    "Secret histories/Story/Game Mechanics/Misc/Notoriety.md",
+    "Secret histories/Story/Game Mechanics/Misc/Work.md",
+    "Secret histories/Story/Game Mechanics/Misc/Vault.md",
     "Welcome.md",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Wist.png",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Trist.png",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Shapt.png",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Setre.png",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Mettle.png",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Phost.png",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Kull.png",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Health.png",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Ereb.png",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Chor.png",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Wisdoms",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Soulshards",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Characteristics/Principles",
-    "Secret histories 270724/Story/resources/My Notes/screenshot/files 2",
-    "Secret histories 270724/Story/resources/My Notes/screenshot/files 1",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/tools",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Tokens",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Skills",
-    "Secret histories 270724/Story/resources/My Notes/screenshots/Places",
-    "Secret histories 270724/Story/Game Mechanics/Toils/Tin Spintria.md",
-    "Secret histories 270724/Story/Game Mechanics/Toils/Spintria.md",
-    "Secret histories 270724/Story/Game Mechanics/Toils/Silver Spintria.md",
-    "Secret histories 270724/Story/Game Mechanics/Toils/Iron Spintria.md",
-    "Secret histories 270724/Story/Game Mechanics/Toils/Gold Spintria.md",
-    "Secret histories 270724/Story/Game Mechanics/Toils/Bronze Spintria.md",
-    "Secret histories 270724/Story/Game Mechanics/vault descriptions/vault descriptions.md",
-    "Secret histories 270724/Story/Game Mechanics/Money/Twopence.md",
-    "Secret histories 270724/Story/Game Mechanics/Money/Threepence.md",
-    "Secret histories 270724/Story/Game Mechanics/Money/Ten Shilling Note.md",
-    "Secret histories 270724/Story/Game Mechanics/Money/Sixpence.md",
-    "Secret histories 270724/Story/Game Mechanics/Money/Shilling.md",
-    "Secret histories 270724/Story/Game Mechanics/Money/Pence.md",
-    "Secret histories 270724/Story/Game Mechanics/Money/Seven Pound Note.md",
-    "Secret histories 270724/Story/Game Mechanics/Money/Halfcrown.md",
-    "Secret histories 270724/Story/Game Mechanics/Money/One Pound Note.md",
-    "Secret histories 270724/Story/Game Mechanics/Money/Florin.md",
-    "Secret histories 270724/Story/Game Mechanics/Money/Five Pound Note.md",
-    "Secret histories 270724/Story/Game Mechanics/Misc/Tenative Evidence.md",
-    "Secret histories 270724/Story/Game Mechanics/Money/Crown.md",
-    "Secret histories 270724/Story/Game Mechanics/Actions/Travelling.md",
-    "Secret histories 270724/Story/Game Mechanics/Misc/Ethos Token.md",
-    "Secret histories 270724/Story/Ligeans.canvas",
-    "Secret histories 270724/Story/Connections.canvas"
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Wist.png",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Trist.png",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Shapt.png",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Setre.png",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Mettle.png",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Phost.png",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Kull.png",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Health.png",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Ereb.png",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards/Chor.png",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Wisdoms",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards",
+    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Principles",
+    "Secret histories/Story/resources/My Notes/screenshot/files 2",
+    "Secret histories/Story/resources/My Notes/screenshot/files 1",
+    "Secret histories/Story/resources/My Notes/screenshots/tools",
+    "Secret histories/Story/resources/My Notes/screenshots/Tokens",
+    "Secret histories/Story/resources/My Notes/screenshots/Skills",
+    "Secret histories/Story/resources/My Notes/screenshots/Places",
+    "Secret histories/Story/Game Mechanics/Toils/Tin Spintria.md",
+    "Secret histories/Story/Game Mechanics/Toils/Spintria.md",
+    "Secret histories/Story/Game Mechanics/Toils/Silver Spintria.md",
+    "Secret histories/Story/Game Mechanics/Toils/Iron Spintria.md",
+    "Secret histories/Story/Game Mechanics/Toils/Gold Spintria.md",
+    "Secret histories/Story/Game Mechanics/Toils/Bronze Spintria.md",
+    "Secret histories/Story/Game Mechanics/vault descriptions/vault descriptions.md",
+    "Secret histories/Story/Game Mechanics/Money/Twopence.md",
+    "Secret histories/Story/Game Mechanics/Money/Threepence.md",
+    "Secret histories/Story/Game Mechanics/Money/Ten Shilling Note.md",
+    "Secret histories/Story/Game Mechanics/Money/Sixpence.md",
+    "Secret histories/Story/Game Mechanics/Money/Shilling.md",
+    "Secret histories/Story/Game Mechanics/Money/Pence.md",
+    "Secret histories/Story/Game Mechanics/Money/Seven Pound Note.md",
+    "Secret histories/Story/Game Mechanics/Money/Halfcrown.md",
+    "Secret histories/Story/Game Mechanics/Money/One Pound Note.md",
+    "Secret histories/Story/Game Mechanics/Money/Florin.md",
+    "Secret histories/Story/Game Mechanics/Money/Five Pound Note.md",
+    "Secret histories/Story/Game Mechanics/Misc/Tenative Evidence.md",
+    "Secret histories/Story/Game Mechanics/Money/Crown.md",
+    "Secret histories/Story/Game Mechanics/Actions/Travelling.md",
+    "Secret histories/Story/Game Mechanics/Misc/Ethos Token.md",
+    "Secret histories/Story/Ligeans.canvas",
+    "Secret histories/Story/Connections.canvas"
   ]
 }
