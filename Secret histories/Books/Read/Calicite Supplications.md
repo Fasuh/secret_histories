@@ -2,7 +2,7 @@
 
 Written in: [[Greek]]
 
-Prayers addressed to the [[Red Grail]] by the [[Sisterhood of the knot|Sisterhood of the Triple Knot]].
+Prayers addressed to the [[The Red Grail]] by the [[Sisterhood of the knot|Sisterhood of the Triple Knot]].
 
 If we should remember not, let our children remember, in their redmost dreams…
 

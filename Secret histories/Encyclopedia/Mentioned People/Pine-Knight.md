@@ -1,1 +1,1 @@
-Spoiled by Nam that its [[Thunderskin]]
+Spoiled by Nam that its [[The Thunderskin]]

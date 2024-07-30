@@ -1,3 +1,7 @@
+---
+aliases:
+  - The White Door
+---
 Mentioned in:
 - [[An Icy Atmosphere]]
 - [[The Locksmith's Dream portions and Proportions]]

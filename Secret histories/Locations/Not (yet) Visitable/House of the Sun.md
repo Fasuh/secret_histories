@@ -1,3 +1,7 @@
+---
+aliases:
+  - The House of the Sun
+---
 Mentioned in:
 - [[Nyctodromy]]
 - [[Lantern]]

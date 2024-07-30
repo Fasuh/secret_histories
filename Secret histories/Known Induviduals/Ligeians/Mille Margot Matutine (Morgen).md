@@ -2,8 +2,6 @@
 aliases:
   - Morgen
 ---
-
-
 ![[Mile Margot Matutine.png]]
 # Conversation
 

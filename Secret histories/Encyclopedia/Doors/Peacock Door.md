@@ -1,3 +1,7 @@
+---
+aliases:
+  - The Peacock Door
+---
 its a [[Door]]
 
 Mentioned in:

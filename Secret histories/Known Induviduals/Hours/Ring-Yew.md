@@ -1,15 +1,20 @@
+---
+aliases:
+  - Malachite
+  - The Malachite
+---
 Mentioned in:
 - [[An Exorcists Field Manual]]
 - [[Dr Arun Peel]]
 - [[The Vinzant Inscriptions]]
 
-Loved by [[Thunderskin]]
+Loved by [[The Thunderskin]]
 
-The [[Ring-Yew]] is an ‘old and fecund’ Hour of the Wood, whose domains includes desire, restlessness, and whimsy. She is one of the primary [[Hours]] worshipped by the [[Sisterhood of the knot]], along with the [[Red Grail]] and [[The Horned-Axe]], who sealed their pact with the sacrifice of the [[Thunderskin]].
+The [[Ring-Yew]] is an ‘old and fecund’ Hour of the Wood, whose domains includes desire, restlessness, and whimsy. She is one of the primary [[Hours]] worshipped by the [[Sisterhood of the knot]], along with the [[The Red Grail]] and [[The Horned-Axe]], who sealed their pact with the sacrifice of the [[The Thunderskin]].
 
 Known for raising [[Dead]], called 'uplifted by green', those [[Dead]] are also known for having changed personality.
 
-Revered by [[Sisterhood of the knot]] along [[The Horned-Axe]] and [[Red Grail]]
+Revered by [[Sisterhood of the knot]] along [[The Horned-Axe]] and [[The Red Grail]]
 
 > Yew symbolises everlasting life and rebirth, Yew came to symbolise death and resurrection for the ancient Celts.
 - It could be connected to [[Ring-Yew]] raising [[Dead]].

@@ -20,8 +20,8 @@ do you believe you can handle the truth?
 yes
 Well to be blunt and simple and lather laconic with my own answer to that is, you must first penetrate the [[Stag door]], and after doing that, covet and garner an admiration of an [[Hours|Hour]].
 
-What do you think of [[Red Grail]]
-The [[Red Grail]] is an [[Hours|Hour]] which the aspect of birth and blood, is named after her. She is a powerful force who has taken part in may events in history of [[Mansus]] and wake itself
+What do you think of [[The Red Grail]]
+The [[The Red Grail]] is an [[Hours|Hour]] which the aspect of birth and blood, is named after her. She is a powerful force who has taken part in may events in history of [[Mansus]] and wake itself
 she is one of the oldest [[Hours]] that has ever ever existed at least that keeps existing, and she has many children and names and [[Long|Longs]] down the History of eternity.
 Her aspect the [[Grail]] she is the fifteenth hour.
 

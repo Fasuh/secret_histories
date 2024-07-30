@@ -13,6 +13,6 @@ its the 11th [[Hours|Hour]]
 
 
 Chilu notes:
-- Possibly [[The Wolf Divided]] divided as mentioned in [[Wolf Stories]]
+- Possibly [[The Wolf-Divided]] divided as mentioned in [[Wolf Stories]]
 - [[The Meniscate]] rules over the [[House of the Moon]].
 - She could be the shadow self of [[Madrugad]]

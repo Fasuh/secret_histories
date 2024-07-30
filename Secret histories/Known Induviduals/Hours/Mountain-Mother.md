@@ -1,1 +1,1 @@
-Spoiled by namshiri that its a [[Red Grail]]
+Spoiled by namshiri that its a [[The Red Grail]]

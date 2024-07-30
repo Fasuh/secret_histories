@@ -15,7 +15,7 @@ Can teach language:
 
 Chilu notes:
 - She seems to serve [[Mother of Ants]]
-- [[Mother of Ants]] is mentioned multiple times, i.e. [[Dr Arun Peel]] mentiones how she helped [[Colonel]] take down [[Seven Coils]] 
+- [[Mother of Ants]] is mentioned multiple times, i.e. [[Dr Arun Peel]] mentiones how she helped [[The Colonel]] take down [[Seven Coils]] 
 
 ![[Pasted image 20240421184127.png]]
 

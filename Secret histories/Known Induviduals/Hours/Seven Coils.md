@@ -10,9 +10,9 @@ Mentioned in:
 
 Not much is known about the [[Seven Coils]], it could be seven separate people.
 
-it is commonly known that [[Colonel]] has battled [[Seven Coils]] with the help of [[Mother of Ants]] and slayed them.
+it is commonly known that [[The Colonel]] has battled [[Seven Coils]] with the help of [[Mother of Ants]] and slayed them.
 
-[[Chione at Abydos]] mentiones that [[Chione]] was dragged out by a [[Colonel|scarred man]], which could mean that this is a story about [[Colonel]] slaying them.
+[[Chione at Abydos]] mentiones that [[Chione]] was dragged out by a [[The Colonel|scarred man]], which could mean that this is a story about [[The Colonel]] slaying them.
 
 Chilu notes:
 - [[Ramsund]] tells a story about seven birds, where one of them is banished for stealing something important. 

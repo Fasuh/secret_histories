@@ -1,3 +1,7 @@
+---
+aliases:
+  - Watchman
+---
 Mentioned in:
 - [[Pyroglyphics]]
 
