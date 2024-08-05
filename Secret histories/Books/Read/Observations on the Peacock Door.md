@@ -1,3 +1,5 @@
+#Moon #Vak #Read #Book 
+
 Ninegala of Lagash discusses the Peacock Door, the highest door available to mortals in the Mansus: 'a rent, an imperfection, an abrasion.'.
 
 Notably, the book is written in Vak, which by some accounts is another aspect of the Peacock Door itself. Ninegala addresses this by apologising courteously to the Door, and the language, at the end of every section.

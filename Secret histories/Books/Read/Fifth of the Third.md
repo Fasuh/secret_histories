@@ -1,3 +1,5 @@
+#Grail #Coptic #Read #Book 
+
 Collection of letters written between the [[grail]]-[[long]] Alasia of Montferrat, marchioness of Saluzzo and the [[Names|Name]] of [[The Red Grail]] known as the [[Poppy Queen, The Third Thirstly|Poppy Queen]]. Each individual letter was sown into this codex seemingly with some kind of sinew.
 
 Every letter is scandalous with vivid details about the carnal desires between the two parties. Not unlike a competition. The letters started in simple ink and paper, but rapidly became written in blood and then later on skin.

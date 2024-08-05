@@ -13,7 +13,7 @@ Mentioned in:
 She was loved by [[The Thunderskin]] which ascended under her as a [[Names|Name]].
 [[Furs & Feathers]] suggests that [[The Red Grail]] was born out of hunters sacrificing beasts to feast.
 
-[[The Red Grail]] has flayed [[The Thunderskin]] in order to placate [[The Horned-Axe]] and get his help to fight the [[Twins]] over the aspect of the [[Heart]].
+[[The Red Grail]] has flayed [[The Thunderskin]] in order to placate [[The Horned-Axe]] and get his help to fight the [[The Twins]] over the aspect of the [[Heart]].
 
 the [[The Red Grail]], [[The Horned-Axe]] and [[Ring-Yew]] seem to be deeply connected.
 

@@ -33,17 +33,17 @@ Who are the other [[Ligeians]]
 me 
 my sister [[Echidna (Unrevealed)]]
 my sister [[Marinette (Unrevealed)]]
-my sister [[Klêidouchos (Unrevealed)]]
-my sister [[Medusa]]
-my sister [[Morgen (Unrevealed)]]
-my sister [[Chillu Notes/Secret histories Jon Ver/Known Induviduals/Ligeians/Rowena]]
+my sister [[Frau Schlussel (Klêidouchos)|Klêidouchos]]
+my sister [[What-Is-Not-Seen (Medusa)|Medusa]]
+my sister [[Mille Margot Matutine (Morgen)|Morgen]]
+my sister [[Professor Rowena Hengerst (Rowena)|Rowena]]
 
 You notice something new, she has a hooked teeth like a snake, she plays setered flute when people dance, as you talk with her she says a few things most important of all that she is the daughter of one of great hooded princes themselves and she hersel holds the key of night. which the great hooded princes themselves one owned.
 
 Does the key of night does what door?
 It opens the Wrong door.
 
-Who holds the key that opens teh stag door?
+Who holds the key that opens the stag door?
 Medusa.
 
 What is the Wrong door?

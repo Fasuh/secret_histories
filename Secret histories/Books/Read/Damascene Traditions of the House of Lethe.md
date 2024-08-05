@@ -1,3 +1,5 @@
+#Sky #Read #Book 
+
 The House of Lethe was an order of immortals who sought obscurity, rejecting their past and future. If the author of this short text is to be believed, the initiates of the Damascene branch were much more radical than their fellows elsewhere.
 
 The House generally forbade any potentially procreative activities, for fear of the terrible consequences of two Long bearing a child. The Damascene order took this much further…

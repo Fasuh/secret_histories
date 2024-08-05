@@ -4,285 +4,148 @@
     "type": "split",
     "children": [
       {
-        "id": "61f263f3f59c7f73",
+        "id": "009256adff2fb096",
         "type": "tabs",
         "children": [
           {
-            "id": "d511d7035e03e7d2",
+            "id": "b190b60ebc3d4cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret histories/memories/Memory.md",
+                "file": "Secret Histories/Encyclopedia/Principles/Winter.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bdf02bf545d7a1d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Skills/Wolf Stories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5818e8db56ea050",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Books/Read/An Investigation of A Foundered Country.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d895413e3f5ca6e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Books/Read/Birch Baked Barriers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef63a73135b1d499",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/items/Minions/Boccastrano, the Fourth Thirstly.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77717f5c2a06c14d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Known Induviduals/Names/The Red Grail/Poppy Queen, The Third Thirstly.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "871bc69a6a25b02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Encyclopedia/Terms/Names.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d7aaa62f2a59936",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Locations/Not (yet) Visitable/Orchard of Lights.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02fea8eb9a151f2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Locations/Not (yet) Visitable/House of the Sun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfb9939d938ecdd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Encyclopedia/Doors/Way The Wood.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1c7cdc36e37859e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Known Induviduals/Hours/met/The Sister-and-Witch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fdbe0eb1c3c9b94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Known Induviduals/Hours/met/The Sister-and-Witch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dd5ee8840511d5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Known Induviduals/Hours/The Wolf-Divided.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d46674edf4ebe26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Books/Read/The History of Inks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3369284574d08886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Encyclopedia/Terms/Ys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a4eaa4d49240e42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Story/The map of mansus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad7026656eb2d68f",
+            "id": "dc0cd229aa1147f6",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Secret histories/Story/resources/Pasted image 20240728224318.png"
+                "file": "Secret Histories/Story/resources/Nectar.webp"
               }
             }
           },
           {
-            "id": "eed8ddb938fff534",
+            "id": "614abfbe59007f3e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Secret Histories/Story/resources/Nectar.webp"
+              }
+            }
+          },
+          {
+            "id": "4b5ae8edb7a940ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret histories/Known Induviduals/Hours/Gods-who-were-stone/Wheel.md",
+                "file": "Secret Histories/Known Induviduals/Hours/The Meniscate.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "44670c84cb8b2efd",
+            "id": "3c1908fd1043960e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret histories/Locations/Not (yet) Visitable/Watchman tree/Lesson of the Red Flower.md",
+                "file": "Secret Histories/Encyclopedia/Wisdoms/Nyctodromy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "925c96e0b32f4932",
+            "id": "1e2ba4ba3426e067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret histories/Locations/Not (yet) Visitable/Watchman tree/Watchman Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b73cf7ab9fd77f86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Encyclopedia/Languages/Ericapaean.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa4df69041864737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/memories/Horizon sight.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edc133e2eb059ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret histories/Skills/Preliminal Meter.md",
+                "file": "Secret Histories/Known Induviduals/Hours/The Meniscate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
+        ]
+      },
+      {
+        "id": "bc0b062aaad7796c",
+        "type": "split",
+        "children": [
+          {
+            "id": "2dd2f7e59cf87805",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f12a209d2090d5cb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Secret Histories/memories/Memory.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "d9cf687121531fd3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "78f89eeb69ce2800",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Secret Histories/Story/The map of mansus.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7aba8d55900a231f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Secret Histories/Known Induviduals/Acquaintances/Magister Hokobald.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c01c3cc5731e0ce2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Secret Histories/Skills/Desires & Dissolutions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
         ],
-        "currentTab": 4
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -311,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "three faces",
+                "query": "principle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -332,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "a61c348872ff0b7e",
@@ -348,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret histories/items/Minions/Boccastrano, the Fourth Thirstly.md",
+                "file": "Secret Histories/Encyclopedia/Principles/Winter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -365,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret histories/items/Minions/Boccastrano, the Fourth Thirstly.md",
+                "file": "Secret Histories/Encyclopedia/Principles/Winter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret histories/items/Minions/Boccastrano, the Fourth Thirstly.md"
+                "file": "Secret Histories/Encyclopedia/Principles/Winter.md"
               }
             }
           }
@@ -409,54 +272,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef63a73135b1d499",
+  "active": "b190b60ebc3d4cdc",
   "lastOpenFiles": [
-    "Secret histories/items/Minions/Ezeem, the Second Thirstly.md",
-    "Secret histories/items/Minions/Voiceless Dead.md",
-    "Secret histories/items/Minions/Strix.md",
-    "Secret histories/items/Minions/Phlogisticant.md",
-    "Secret histories/items/Minions/Percussigant.md",
-    "Secret histories/items/Crafting recipes/Crafting Recipes.md",
-    "Secret histories/Books/Read/Honey the Comprehensive Guide.md",
-    "Secret histories/Books/Read/Green Jasper Tablet.md",
-    "Secret histories/Known Induviduals/Hours/gods from nowhere/Mare-in-the-Tree.md",
-    "Secret histories/Books/Read/Glimmerings.md",
-    "Secret histories/Books/Read/Fifth of the Third.md",
-    "Secret histories/Known Induviduals/Names/The Red Grail/Poppy Queen, The Third Thirstly.md",
-    "Secret histories/items/Minions/Boccastrano, the Fourth Thirstly.md",
-    "Secret histories/Encyclopedia/Terms/Names.md",
-    "Secret histories/Books/Read/Echo of silence.md",
-    "Secret histories/Books/Read/De Bellis Murorum.md",
-    "Secret histories/Books/Read/Damascene Traditions of the House of Lethe.md",
-    "Secret histories/Known Induviduals/Names/The Red Grail",
-    "Secret histories/Known Induviduals/Names/Untitled.md",
-    "Secret histories/Books/Read/Cross' Savour-Secret.md",
-    "Secret histories/Books/Read/COLOURS IN THE LIVER.md",
-    "Secret histories/Books/Read/Chione at Abydos.md",
-    "Secret histories/Books/Read/Cardea's Delights.md",
-    "Secret histories/Books/Read/Calicite Supplications.md",
-    "Secret histories/Books/Read/By Their Marks Shall Ye Know Them.md",
-    "Secret histories/Known Induviduals/Hours/The Colonel.md",
-    "Secret histories/Books/Read/Birch Baked Barriers.md",
-    "Secret histories/Known Induviduals/Names/The Applebright",
-    "Secret histories/Known Induviduals/Names/The Velvet",
-    "Secret histories/Story/resources/Pasted image 20240728224318.png",
-    "Secret histories/Known Induviduals/Names",
-    "Secret histories/Rituals/effects",
-    "Secret histories/Story/Soul Pieces",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505185837.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505185453.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505185344.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505185023.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505184546.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505184231.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505183824.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505183408.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240421234045.png",
-    "Secret histories/Story/resources/old_res",
-    "Chillu Notes/Secret histories Chilu Ver/wth",
-    "Chillu Notes/Secret histories Chilu Ver",
+    "Secret Histories/Encyclopedia/Principles/Knock.md",
+    "Secret Histories/Encyclopedia/Principles/Heart.md",
+    "Secret Histories/Encyclopedia/Principles/Grail.md",
+    "Secret Histories/Encyclopedia/Principles/Forge.md",
+    "Secret Histories/Encyclopedia/Principles/Edge.md",
+    "Secret Histories/Story/resources/Principles/Winter.webp",
+    "Secret Histories/Encyclopedia/Principles/Winter.md",
+    "Secret Histories/Encyclopedia/Principles/Scale.md",
+    "Secret Histories/Encyclopedia/Principles/Rose.md",
+    "Secret Histories/Encyclopedia/Principles/Nectar.md",
+    "Secret Histories/Encyclopedia/Principles/Moth.md",
+    "Secret Histories/Encyclopedia/Principles/Moon.md",
+    "Secret Histories/Encyclopedia/Principles/Lantern.md",
+    "Secret Histories/Encyclopedia/Principles/Sky.md",
+    "Secret Histories/Story/resources/Principles/Scale.webp",
+    "Secret Histories/Story/resources/Principles/Sky.webp",
+    "Secret Histories/Story/resources/Nectar.webp",
+    "Secret Histories/Known Induviduals/Acquaintances/Dr Yvette Southey.md",
+    "Secret Histories/Books/Read/A Novel Method for Invocation & Contrition.md",
+    "Secret Histories/Books/Read/The Orchid Transfigurations Noon.md",
+    "Secret Histories/Known Induviduals/Acquaintances/Dr Ibn Al-Adim.md",
+    "Secret Histories/Known Induviduals/Acquaintances/Magister Hokobald.md",
+    "Secret Histories/Known Induviduals/Ligeians/Frau Schlussel (Klêidouchos).md",
+    "Secret Histories/Known Induviduals/Hours/Hours.md",
+    "Secret Histories/memories/Enduring Reflection.md",
+    "Secret Histories/memories/Memory.md",
+    "Secret Histories/Skills/Path & Pilgrim.md",
+    "Secret Histories/Skills/Pearl & Tide.md",
+    "Secret Histories/Story/A graphic showing principles.md",
+    "Secret Histories/Story/Connections.canvas",
+    "Pasted image 20240805115825.png",
+    "Pasted image 20240804175120.png",
+    "Pasted image 20240805003917.png",
+    "Pasted image 20240805003906.png",
+    "Pasted image 20240805003858.png",
+    "Pasted image 20240805003848.png",
+    "Secret Histories/Known Induviduals/Names/The Vagabond",
+    "Secret Histories/Story/Ligeans.canvas",
+    "Chillu Notes/Secret histories 270724/Known Induviduals/Hours",
+    "Chillu Notes/Secret histories 270724/Known Induviduals",
+    "Chillu Notes/Secret histories 270724",
     "Chillu Notes",
+    "Secret histories/Books/Not Owned/desktop.ini",
+    "Secret histories/Books/Not Owned",
+    "Secret histories/Books/Seen/desktop.ini",
+    "Secret histories/Books/Seen",
+    "Secret histories/Known Induviduals/Names/The Red Grail",
     "Secret histories/Story/Ligeans.canvas",
     "Secret histories/Story/Connections.canvas"
   ]

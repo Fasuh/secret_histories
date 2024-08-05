@@ -13,6 +13,7 @@ Principles:
 Wisdoms:
 - [[The Bosk]]
 - [[Horomachistry|Horomachistry]]
+
 Chilu notes:
 - 
 

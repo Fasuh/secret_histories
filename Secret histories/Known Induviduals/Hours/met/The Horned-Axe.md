@@ -1,3 +1,7 @@
+---
+aliases:
+  - Horned-Axe
+---
 Mentioned in:
 - [[Dr Arun Peel]]
 - [[Path & Pilgrim]]

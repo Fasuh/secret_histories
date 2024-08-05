@@ -5,7 +5,7 @@ List of known crafting recipes:
 	- idk
 - [[Calicite Supplications]]
 	- [[Tridesma Hiera]] with [[Grail]] and a doll twisted from fabric
-		- Done
+		- Done, resulted in [[Flushed Mommet]]
 - [[Cardea's Delights]]
 	- [[The Great Signs and the Great Scars]] with [[Knock]] and [[Amethyst Vessel]]
 - [[Hunting Journals of Bryan Dewulf]]
@@ -35,3 +35,10 @@ List of known crafting recipes:
 - [[Honey the Comprehensive Guide]]
 	- No idea, [[Secret histories/items/Consumables/Cuckoo-Honey|Cuckoo-Honey]] + [[Insects & Nectars]] maybe??
 		- either "Yewgall Ink" or "Skinshuck Mead"
+- [[Just Verse]]
+	- [[Preliminal Meter]] + [[Memory]]
+		- More potent memory
+- [[On Matthias and the Amethus Imago Loss]]
+	- [[Nameday Riddle]] + [[Solutions & Separations]] + [[Moth]]
+		- Possibly done, resulted in [[Wood Key]] but it was used with a [[Dreaming]]
+		- I think this recipe should be used with [[Toiling]] instead to be done correctly

@@ -1,4 +1,4 @@
-#Knock #Book 
+#Knock #Read #Book 
 
 A monster-hunting initiate of the Hour named [[The Colonel]], who identifies herself as 'Little Sophia', provides advice on finding the weak spots of [[Long]].
 

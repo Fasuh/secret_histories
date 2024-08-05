@@ -1,7 +1,10 @@
 ---
 aliases:
   - The Wood
+  - The Woods
 ---
+#Door 
+
 The Wood is the lowermost portion of the Mansus, lying outside the House Without Walls seemingly above the reaches of Nowhere. Once, the Wood was once a vibrant land of vividcolors, seemingly ruled by the old god-from-stone known as the Wheel. Since the Lithomachy, the Wood has become dark, and as passion and reason contend in the human soul, so too does the light of the Glory with the shadows of the Wood.
 
 A realm of instinct and passion, the Wood is one of the parts of the Mansus most accessible to mortals, who may visit it in their dreams unaware of its true nature and learning to navigate its twisting paths more easily with limited knowledge of the occult. The Wood is also where all Dead initially go, who either become lost and drift down to Nowhere or proceed towards the White Door and into the House. This latter is the way the living follow too.

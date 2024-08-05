@@ -1,3 +1,5 @@
+#Scale #Sanscret #Read #Book 
+
 The entomologist Juliana Zawistowski eventually came to insist that this text was written by insects inhabiting a human skin. She never presented evidence for her claim.. There are diagrams. The diagrams are not good to look upon.
 
 The Tantra explains various less than practical countermeasures against the Worms, the 'Serpents Which Are Not Serpents'. Moth and Winter are closest to them, and so understand their weaknesses, but both have their own perils. The Lionsmith crushes them, but that's not recommended for mortals.

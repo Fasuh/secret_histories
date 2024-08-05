@@ -1,3 +1,5 @@
+#Scale #Cracktrack #Read #Book 
+
 Michael Blockley, the eccentric iron magnate, was fond of quoting from this book. Blockley died in a factory fire.
 
 Dialogues with an entity called the Crucible Prince. The Prince warns about the appetites of his mistress, the Burning Queen, and the peril of the naked desire she shares with the Sun, but professes his loyalty nevertheless.

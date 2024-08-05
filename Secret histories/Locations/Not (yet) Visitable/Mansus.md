@@ -12,7 +12,7 @@ Mansus has no walls, its separated by the [[Wood]].
 [[Edicts Liminal]] tells us how a city with a walls of shining [[Flint]] could be raised there.
 
 Known locations within [[Mansus]]:
-- [[Glory]]
+- [[Secret Histories/Locations/Not (yet) Visitable/Glory]]
 - [[Concursum]]
 
 Chilu notes:

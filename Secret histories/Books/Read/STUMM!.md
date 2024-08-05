@@ -1,3 +1,5 @@
+#Winter #Read #Book 
+
 A can of nitrate film labelled STUMM! - 'Silent' or, perhaps, 'Mute'. The director's name, 'Jernik Krosse', is shakily appended.
 
 The film rattles through the projector, glows silently on the wall. It is the story of a foolish student of forbidden sciences, who recruits a dancer to entice the Dead back into the world through a flaw in its skin. It's a fiction, but here on a title card is laid out the Operation of the Declining Sun...

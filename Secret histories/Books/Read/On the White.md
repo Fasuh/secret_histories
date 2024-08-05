@@ -1,3 +1,5 @@
+#Winter #Read #Book 
+
 Solomon Husher writes, perhaps allegorically, of Winter, and its long slow doomed romance with the Sun. The epigraph is 'Sunset at Noon'.
 
 On closer investigation, the work seems to be a theory of aesthetics, or perhaps a set of warnings about the dangers of painting.

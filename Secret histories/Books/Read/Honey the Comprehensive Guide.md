@@ -1,3 +1,5 @@
+#Nectar #Read #Book 
+
 Harvey Hattington - pilot, polymath, confectioner - writes with great enthusiasm about the 'marvellous work of the Bee'.
 
 Hattington insists that all the primary aspects - [[Nectar]], [[Scale]], [[Heart]], [[Lantern]], [[Moth]], [[Grail]] - are possessed by bees and expressed in honey. (Clearly, he points out, there are only six primary aspects, as a honeycomb has only six angles.)

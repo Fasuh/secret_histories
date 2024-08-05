@@ -1,6 +1,14 @@
+---
+aliases:
+  - Secret
+  - Secrets
+  - Living Words
+---
 Study - increase levels
 Toil - use with or without rite
 Dream - Get its description or change its type to a principle given
+
+# You cannot change from [[Knock]]
 
 ![[Secret histories/Story/resources/Pasted image 20240724204457.png]]
 This was a Dream Changed to: [[Invocation of the ivory dove]]

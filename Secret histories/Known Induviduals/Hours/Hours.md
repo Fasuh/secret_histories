@@ -19,6 +19,13 @@ We can group [[Hours]] to specific groups:
 - [[gods-from-Light]]
 - [[gods-who-were-light]]
 
+List of known hours:
+- 3AM - [[Ring-Yew]]
+- 5AM - [[The Mother of Ants]]
+- 11AM - [[The Meniscate]]
+- 7PM - [[The Flowermaker]]
+- 8PM - [[Forge of Days]]
+
 It seems that the groups were born in different periods, for example [[gods-from-stone]] are mostly basic objects like [[Flint]] or [[Wheel]], where [[gods-who-are]] are more complex ideas like [[Rose]] or [[Grail]].
 
 [[Hours]] also seem to be fighting against each other, the most known conflict so far is [[Lithomachy]], where [[gods-who-are]] battled against [[gods-from-stone]].

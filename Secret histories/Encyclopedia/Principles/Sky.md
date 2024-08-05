@@ -4,4 +4,4 @@ _Wind, storm, echo, song; the intricacies of mathematics and the principles of f
 
 Matters of balance, harmony and necessity.
 
-![[Sky.webp]]
+![[Secret Histories/Story/resources/Principles/Sky.webp]]

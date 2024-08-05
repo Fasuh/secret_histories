@@ -1,3 +1,5 @@
+#Heart #DeepMandaic #Read #Book 
+
 In which Amira Zahra prophesies the events later known as the Intercalate, when the Hour called Sun-in-Splendour will be divided.
 
 The Sun will be divided that it might not sire children. Still its children shall be Four in number and its children shall be Seven in number and its children shall also be Numberless. The Numberless shall open the way for the Seven, and the Seven shall consume the Four...'

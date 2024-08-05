@@ -1,3 +1,5 @@
+#Sky #Phrygian #Read #Book 
+
 Stories brought by a blind white cat to Penelope of Gordion.
 
 The aviform Hours - the Crow, the Laughingthrush, the Dove, and the twin Kites - have been known to meet in the mountains north of Gordion, at a place called the Roost, to exchange gossip. Penelope indicates that mortals who hear their words directly are obliterated, but claims that her cat goes unnoticed and returns to her with rumours from the Hours' meetings.

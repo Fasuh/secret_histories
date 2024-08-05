@@ -1,3 +1,5 @@
+#Grail #Read #Book 
+
 A book of kitchen-garden techniques and aphrodisiac recipes recorded by Ernestine Peterhans, the 'Iron Seneschale' of Hush House for three generations of Dewulfs.    „
 
 Peterhans asserts casually that the rousing liquor called 'Rubywise Ruin', which Leaves & Thorns techniques can brew from flowers, was a favourite of the notoriously severe Baron Thomas. If true, this would have raised eyebrows had it been known in his lifetime...    „

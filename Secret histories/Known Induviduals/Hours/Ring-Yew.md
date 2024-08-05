@@ -2,6 +2,7 @@
 aliases:
   - Malachite
   - The Malachite
+  - 3AM
 ---
 Mentioned in:
 - [[An Exorcists Field Manual]]
@@ -18,6 +19,9 @@ Revered by [[Sisterhood of the knot]] along [[The Horned-Axe]] and [[The Red Gra
 
 > Yew symbolises everlasting life and rebirth, Yew came to symbolise death and resurrection for the ancient Celts.
 - It could be connected to [[Ring-Yew]] raising [[Dead]].
+
+>[[Ring-Yew|The Malachite]], [[The Thunderskin]] old lover, the one who [[The Thunderskin]] sacrificed himself to. but [[Ring-Yew|The Malachite]] or as some of other followers would refer [[Ring-Yew]], she instead chose to be a relationship after that flaying with no other mayor in the tree, it is the relationship that is most forbidden and whimsical even in the standards of [[Hours]]. and ofc she is the one who is worshipped alongside [[The Red Grail]] and [[The Horned-Axe]] within the [[sisterhood of the knot]]. Her principles are [[Moth]] [[Grail]] and [[Heart]]. its the [[Hours|Hour]] of 3AM
+- [[Brita Persdotter Karth]]
 
 Chilu notes:
 - [[Ring-Yew]] is usually mentioned next to [[The Horned-Axe]].

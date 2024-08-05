@@ -1,3 +1,5 @@
+#Grail #Read #Book 
+
 Black Elie, who much later became Damascene Matriarch of the [[Sisterhood of the Knot]], recounts her journey to the Grove of Green Immortals.
 
 In the Grove, Elie meets with an entity identified as '[[Three Faces|Three Faces, Nine Colours]]' - who may have become her lover.

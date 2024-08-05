@@ -36,4 +36,4 @@ Chilu notes:
 -  This text has a lot of possible interpretations
 - This could refer to [[gods from nowhere/gods-from-Nowhere]], there is only 6 of them known to us, there is a possibility one of them was banished.
 - This could refer to the flaying of [[The Thunderskin]] as "glitter-winged" bird could be a representation of him
-- [[Twins]] are mentioned to remove roads from crossroads, this is also mentioned in [[Sister-and-Witch]]
+- [[The Twins]] are mentioned to remove roads from crossroads, this is also mentioned in [[Sister-and-Witch]]

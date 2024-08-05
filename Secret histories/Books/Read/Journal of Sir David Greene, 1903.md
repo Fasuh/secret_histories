@@ -1,3 +1,5 @@
+#Edge #Hyksos #Read #Book 
+
 A confidential journal kept by Greene, former Nocturnal Branch Superindent but, by 1903, Librarian of the House. Greene has kept his journal in Hyksos, presumably as an extra measure of privacy.
 
 In 1903, the House co-operated closely with the Branch, and Greene was the public face of that co-operation. In private, however, Greene is clearly disillusioned with the Branch, which he increasingly regards as irresponsible. He is especially concerned about the construction of a 'suppressive mechanism' beneath Brancrug Gaol, and its likely occupant.

@@ -1,3 +1,5 @@
+#Nectar #Coptic #Read #Book 
+
 "Rather curious book translated into many different languages across the ages. The original work has been long lost and this volume has been transcribed in [[Coptic]] from many other source books. The nuances of the book are most likely lost.
 
 The unknown author talks about winged creatures who populated the Wake before the humans. Worshipping the [[Hours]] whom were [[gods-from-stone]], and sought after the Monarch-at-the-Crossroads. Wishing to be led diligently in their fervour.

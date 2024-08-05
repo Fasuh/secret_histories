@@ -4,4 +4,4 @@ _The rose which encompasseth all'. Nine directions to new horizons._
 
 Exploration? Enlightenment? Hope?
 
-![[Rose.webp]]
+![[Secret Histories/Story/resources/Principles/Rose.webp]]

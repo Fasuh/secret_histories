@@ -1,3 +1,5 @@
+#Edge #Greek #Read #Book 
+
 Painstakingly assembled by the soldier of fortune and sometime remittance man, Pavel Shulga, during his years in Greece.
 
 An account of the founding of Mycenae by a 'Scarred Captain' who first slew seven monsters to make the land safe.

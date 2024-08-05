@@ -11,13 +11,13 @@ Mentioned in:
 They are mentioned by this name only in one place. Its heavily suggested they are two people. 
 
 [[A Howling in the heart]] says how they are weaving two paths into one. 
-Additionaly [[Ramsund]] language mentions how one of [[Twins]] have stolen roads from crossroads.
+Additionaly [[Ramsund]] language mentions how one of [[The Twins]] have stolen roads from crossroads.
 
-There is a possibility that they are [[Twins]]
+There is a possibility that they are [[The Twins]]
 There is lower possibility that they are also [[Hour of Grail and Moth]] and [[Hour of Moth and Grail]]
 
 Chilu notes:
-- Its possible that they are the [[Twins]].
+- Its possible that they are the [[The Twins]].
 - Its possible they are also [[Hour of Grail and Moth]] and [[Hour of Moth and Grail]]
 - Its suggested they are weaving two paths into one, which could mean multitude of things
 	- It could be that they are removing free will from people

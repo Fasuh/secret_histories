@@ -1,3 +1,5 @@
+#Knock #Read #Book 
+
 A surprisingly chatty text by an entity that identifies itself as 'the Excellency Gnathobasis'.
 
 The Excellency Gnathobasis explains the 'limbs and extensions' of potent and dangerous 'glyphic achievements'. The sentences are nonsense on first reading, but quickly acquire an insistent meaning on each repetition.
