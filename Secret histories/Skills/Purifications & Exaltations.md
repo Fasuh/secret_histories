@@ -4,7 +4,7 @@
 
 Never underestimate the [[Hours|Hour]] named [[The Meniscate]]. Foolish adepts deride her as an [[Hours|Hour]] of vanity. What do they think defines the [[Hours]]? Light purifies; light exalts.
 
-Never underestimate the [[Hours|Hour]] named [[Madrugad]]. Foolish adepts deride her as an [[Hours|Hour]] of ashes. What do they think the [[Watchman tree/Watchman Tree|Watchman's Tree]] sprang from? Fire purifies; light exalts.
+Never underestimate the [[Hours|Hour]] named [[Madrugad]]. Foolish adepts deride her as an [[Hours|Hour]] of ashes. What do they think the [[Watchman Tree|Watchman's Tree]] sprang from? Fire purifies; light exalts.
 
 > A surprisingly casual final section mentions that iotic essence, 'the root of the Great and Exultant Ink Orpimental', can be refined with enough [[Forge]] from a variety of liquids.
 - [[The Book of Cinders]]

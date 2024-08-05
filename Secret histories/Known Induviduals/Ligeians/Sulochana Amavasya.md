@@ -20,8 +20,8 @@ do you believe you can handle the truth?
 yes
 Well to be blunt and simple and lather laconic with my own answer to that is, you must first penetrate the [[Stag door]], and after doing that, covet and garner an admiration of an [[Hours|Hour]].
 
-What do you think of [[Red Grail]]
-The [[Red Grail]] is an [[Hours|Hour]] which the aspect of birth and blood, is named after her. She is a powerful force who has taken part in may events in history of [[Mansus]] and wake itself
+What do you think of [[The Red Grail]]
+The [[The Red Grail]] is an [[Hours|Hour]] which the aspect of birth and blood, is named after her. She is a powerful force who has taken part in may events in history of [[Mansus]] and wake itself
 she is one of the oldest [[Hours]] that has ever ever existed at least that keeps existing, and she has many children and names and [[Long|Longs]] down the History of eternity.
 Her aspect the [[Grail]] she is the fifteenth hour.
 
@@ -33,17 +33,17 @@ Who are the other [[Ligeians]]
 me 
 my sister [[Echidna (Unrevealed)]]
 my sister [[Marinette (Unrevealed)]]
-my sister [[Klêidouchos (Unrevealed)]]
-my sister [[Medusa]]
-my sister [[Morgen (Unrevealed)]]
-my sister [[Chillu Notes/Secret histories Jon Ver/Known Induviduals/Ligeians/Rowena]]
+my sister [[Frau Schlussel (Klêidouchos)|Klêidouchos]]
+my sister [[What-Is-Not-Seen (Medusa)|Medusa]]
+my sister [[Mille Margot Matutine (Morgen)|Morgen]]
+my sister [[Professor Rowena Hengerst (Rowena)|Rowena]]
 
 You notice something new, she has a hooked teeth like a snake, she plays setered flute when people dance, as you talk with her she says a few things most important of all that she is the daughter of one of great hooded princes themselves and she hersel holds the key of night. which the great hooded princes themselves one owned.
 
 Does the key of night does what door?
 It opens the Wrong door.
 
-Who holds the key that opens teh stag door?
+Who holds the key that opens the stag door?
 Medusa.
 
 What is the Wrong door?

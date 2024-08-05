@@ -15,7 +15,7 @@ The [[Wood]] envelops the walls of the [[Mansus]], though the [[Mansus]] has no 
 
 The [[House of the Sun]] proper is the primary domain of the [[Hours]], where the majority of them reside and influence reality. 
 
-The [[Glory|Glory]] is the apex of the [[House of the Sun]], an ultimate source of Light and enlightenment. It is the peak of the [[Lantern]] principle, and perhaps the aspects themselves.
+The [[Secret Histories/Influences/Glory|Glory]] is the apex of the [[House of the Sun]], an ultimate source of Light and enlightenment. It is the peak of the [[Lantern]] principle, and perhaps the aspects themselves.
 It is also the origin point of the first [[gods-from-Light]], the [[Sun-in-Splendour]] and the [[Forge of Days]]. 
 
 [[Nowhere]] is the dark and unknowable land that serves as the resting place of the dead, and the home of dangerous beings such as [[Worms|Worms]] and the [[gods from nowhere/gods-from-Nowhere]].

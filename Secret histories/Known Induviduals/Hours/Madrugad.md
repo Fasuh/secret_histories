@@ -1,7 +1,7 @@
 Mentioned in:
 - [[Purifications & Exaltations]]
 
-"Foolish adepts deride her as an [[Hours|Hour]] of ashes. What do they think the [[Watchman]]'s Tree sprang from? Fire purifies; light exalts."
+"Foolish adepts deride her as an [[Hours|Hour]] of ashes. What do they think the [[The Watchman]]'s Tree sprang from? Fire purifies; light exalts."
 - [[Purifications & Exaltations]]
 
 Chilu notes:

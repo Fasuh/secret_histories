@@ -6,7 +6,7 @@ Already has been read by Vana, rewarded us with a choice of:
 
 Was used to teach Vonte [[Wolf Stories]]
 
-Van Driel describes odd events in [[Vienna]] - the disappearance of children; epidemics of parasite activity; animal mutilations; nightmares of [[Worms]]; the activities of a charitable organization, the New [[Ligeians]], that funds the burial of the poor. She proposes peculiar connections between these activities.
+Van Driel describes odd events in [[Secret Histories/Locations/Not (yet) Visitable/Vienna]] - the disappearance of children; epidemics of parasite activity; animal mutilations; nightmares of [[Worms]]; the activities of a charitable organization, the New [[Ligeians]], that funds the burial of the poor. She proposes peculiar connections between these activities.
 
 When the individual K. attends the meetings, black dogs are sacrificed and quartered. When the element M. is in attendance, black mares are found with their throats slashed. I propose that these sacrifices are not necessary, but that our [[Ligeians|Ligeian]] friends may consider them 'fitting'. 
 

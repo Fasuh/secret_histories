@@ -1,3 +1,7 @@
+---
+aliases:
+  - 11AM
+---
 Mentioned in:
 - [[Nyctodromy]]
 - [[Purifications & Exaltations]]

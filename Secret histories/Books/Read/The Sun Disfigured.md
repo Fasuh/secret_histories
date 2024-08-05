@@ -1,3 +1,5 @@
+#Grail #Cracktrack #Read #Book 
+
 A scroll of anthropoderm parchment, written in the golden ink called Uzult.
 
 The author of the text calls herself 'the Elagabaline'. Sometimes she seems to be Sunset Celia, the Watchman's Name; sometimes she seems to be Lady Tryphon, the Grail-long. It is unclear whether these are separate entities or the same person - it may be unclear even to the writer.

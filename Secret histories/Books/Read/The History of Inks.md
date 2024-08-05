@@ -1,3 +1,5 @@
+#Rose #Read #Book 
+
 A legendary grimoire of exotic ink-making lore. The cover and some of the pages, unfortunately are stained and crusted with something more like mucus than ink.
 
 The encaustum Marakat is refined from the liquor named leathy in the presence of Nectar aspect. The Priestesses of the Knot have also learnt to brew Marakat in this wise - yet for the nature of their arts, their task may be easier…

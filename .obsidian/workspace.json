@@ -4,59 +4,148 @@
     "type": "split",
     "children": [
       {
-        "id": "61f263f3f59c7f73",
+        "id": "009256adff2fb096",
         "type": "tabs",
         "children": [
           {
-            "id": "d511d7035e03e7d2",
+            "id": "b190b60ebc3d4cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret histories/memories/Memory.md",
+                "file": "Secret Histories/Encyclopedia/Principles/Winter.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bdf02bf545d7a1d1",
+            "id": "dc0cd229aa1147f6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Secret Histories/Story/resources/Nectar.webp"
+              }
+            }
+          },
+          {
+            "id": "614abfbe59007f3e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Secret Histories/Story/resources/Nectar.webp"
+              }
+            }
+          },
+          {
+            "id": "4b5ae8edb7a940ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret histories/Skills/Wolf Stories.md",
+                "file": "Secret Histories/Known Induviduals/Hours/The Meniscate.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c5818e8db56ea050",
+            "id": "3c1908fd1043960e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret histories/Known Induviduals/Ligeians/Professor Rowena Hengerst (Rowena).md",
+                "file": "Secret Histories/Encyclopedia/Wisdoms/Nyctodromy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a4eaa4d49240e42",
+            "id": "1e2ba4ba3426e067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret histories/Known Induviduals/Ligeians/Mille Margot Matutine (Morgen).md",
+                "file": "Secret Histories/Known Induviduals/Hours/The Meniscate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
+        ]
+      },
+      {
+        "id": "bc0b062aaad7796c",
+        "type": "split",
+        "children": [
+          {
+            "id": "2dd2f7e59cf87805",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f12a209d2090d5cb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Secret Histories/memories/Memory.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "d9cf687121531fd3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "78f89eeb69ce2800",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Secret Histories/Story/The map of mansus.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7aba8d55900a231f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Secret Histories/Known Induviduals/Acquaintances/Magister Hokobald.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c01c3cc5731e0ce2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Secret Histories/Skills/Desires & Dissolutions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Notoriety",
+                "query": "principle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "a61c348872ff0b7e",
@@ -122,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret histories/Skills/Wolf Stories.md",
+                "file": "Secret Histories/Encyclopedia/Principles/Winter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret histories/Skills/Wolf Stories.md",
+                "file": "Secret Histories/Encyclopedia/Principles/Winter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret histories/Skills/Wolf Stories.md"
+                "file": "Secret Histories/Encyclopedia/Principles/Winter.md"
               }
             }
           }
@@ -183,54 +272,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdf02bf545d7a1d1",
+  "active": "b190b60ebc3d4cdc",
   "lastOpenFiles": [
-    "Secret histories/Skills/Weaving & Knotworking.md",
-    "Secret histories/Skills/Watchman's Paradoxes.md",
-    "Secret histories/Skills/Tridesma Hiera.md",
-    "Secret histories/Skills/Transformations & Liberations.md",
-    "Secret histories/Skills/The Great Signs and the Great Scars.md",
-    "Secret histories/Skills/Surgeries & Exsanguinations.md",
-    "Secret histories/Skills/Stone Stories.md",
-    "Secret histories/Skills/Stitching & Binding.md",
-    "Secret histories/Skills/Spices & Savours.md",
-    "Secret histories/Skills/Solutions & Separations.md",
-    "Secret histories/Skills/Snow Stories.md",
-    "Secret histories/Skills/Sights & Sensations.md",
-    "Secret histories/Skills/Sickle & Eclipse.md",
-    "Secret histories/Skills/Sharps.md",
-    "Secret histories/Skills/Serpents & Venoms.md",
-    "Secret histories/Skills/Sea Stories.md",
-    "Secret histories/Skills/Sacra Solis Invicti.md",
-    "Secret histories/Skills/Sacra Limiae.md",
-    "Secret histories/Skills/Rites of the Roots.md",
-    "Secret histories/Skills/Ripples & Barriers.md",
-    "Secret histories/Skills/Ragged Crossroads.md",
-    "Secret histories/Skills/Resurgences & Emergences.md",
-    "Secret histories/Skills/Quenching & Quellings.md",
-    "Secret histories/Skills/Pyroglyphics.md",
-    "Secret histories/Skills/Purifications & Exaltations.md",
-    "Secret histories/Skills/Preliminal Meter.md",
-    "Secret histories/Rituals/effects",
-    "Secret histories/Story/Soul Pieces",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505185837.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505185453.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505185344.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505185023.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505184546.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505184231.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505183824.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240505183408.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240421234045.png",
-    "Secret histories/Story/resources/old_res/Pasted image 20240421233744.png",
-    "Secret histories/Story/resources/old_res",
-    "Chillu Notes/Secret histories Chilu Ver/wth",
-    "Chillu Notes/Secret histories Chilu Ver",
+    "Secret Histories/Encyclopedia/Principles/Knock.md",
+    "Secret Histories/Encyclopedia/Principles/Heart.md",
+    "Secret Histories/Encyclopedia/Principles/Grail.md",
+    "Secret Histories/Encyclopedia/Principles/Forge.md",
+    "Secret Histories/Encyclopedia/Principles/Edge.md",
+    "Secret Histories/Story/resources/Principles/Winter.webp",
+    "Secret Histories/Encyclopedia/Principles/Winter.md",
+    "Secret Histories/Encyclopedia/Principles/Scale.md",
+    "Secret Histories/Encyclopedia/Principles/Rose.md",
+    "Secret Histories/Encyclopedia/Principles/Nectar.md",
+    "Secret Histories/Encyclopedia/Principles/Moth.md",
+    "Secret Histories/Encyclopedia/Principles/Moon.md",
+    "Secret Histories/Encyclopedia/Principles/Lantern.md",
+    "Secret Histories/Encyclopedia/Principles/Sky.md",
+    "Secret Histories/Story/resources/Principles/Scale.webp",
+    "Secret Histories/Story/resources/Principles/Sky.webp",
+    "Secret Histories/Story/resources/Nectar.webp",
+    "Secret Histories/Known Induviduals/Acquaintances/Dr Yvette Southey.md",
+    "Secret Histories/Books/Read/A Novel Method for Invocation & Contrition.md",
+    "Secret Histories/Books/Read/The Orchid Transfigurations Noon.md",
+    "Secret Histories/Known Induviduals/Acquaintances/Dr Ibn Al-Adim.md",
+    "Secret Histories/Known Induviduals/Acquaintances/Magister Hokobald.md",
+    "Secret Histories/Known Induviduals/Ligeians/Frau Schlussel (Klêidouchos).md",
+    "Secret Histories/Known Induviduals/Hours/Hours.md",
+    "Secret Histories/memories/Enduring Reflection.md",
+    "Secret Histories/memories/Memory.md",
+    "Secret Histories/Skills/Path & Pilgrim.md",
+    "Secret Histories/Skills/Pearl & Tide.md",
+    "Secret Histories/Story/A graphic showing principles.md",
+    "Secret Histories/Story/Connections.canvas",
+    "Pasted image 20240805115825.png",
+    "Pasted image 20240804175120.png",
+    "Pasted image 20240805003917.png",
+    "Pasted image 20240805003906.png",
+    "Pasted image 20240805003858.png",
+    "Pasted image 20240805003848.png",
+    "Secret Histories/Known Induviduals/Names/The Vagabond",
+    "Secret Histories/Story/Ligeans.canvas",
+    "Chillu Notes/Secret histories 270724/Known Induviduals/Hours",
+    "Chillu Notes/Secret histories 270724/Known Induviduals",
+    "Chillu Notes/Secret histories 270724",
     "Chillu Notes",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards/Soulshard Cards",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Wisdoms",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Soulshards",
-    "Secret histories/Story/resources/My Notes/screenshots/Characteristics/Principles",
+    "Secret histories/Books/Not Owned/desktop.ini",
+    "Secret histories/Books/Not Owned",
+    "Secret histories/Books/Seen/desktop.ini",
+    "Secret histories/Books/Seen",
+    "Secret histories/Known Induviduals/Names/The Red Grail",
     "Secret histories/Story/Ligeans.canvas",
     "Secret histories/Story/Connections.canvas"
   ]

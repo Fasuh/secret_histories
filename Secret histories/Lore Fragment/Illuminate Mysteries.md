@@ -1,0 +1,3 @@
+The Meniscate, the Madrugad, the Flowermaker and the Forge of Days are the gods-from-Light. There is a fifth, but now we know it is not the Watchman. Yet the Watchman shares a secret doctrine with those five, and here is that doctrine...
+
+![[Pasted image 20240804204435.png]]

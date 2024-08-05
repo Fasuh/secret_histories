@@ -1,3 +1,9 @@
+---
+aliases:
+  - The Peacock Door
+---
+#Door #Vak 
+
 its a [[Door]]
 
 Mentioned in:

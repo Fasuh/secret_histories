@@ -1,3 +1,7 @@
+---
+aliases:
+  - Watchman's Tree
+---
 Mentioned in:
 - [[Glazery & Lightsmithing]]
 - [[Inks of Containment]]
@@ -7,4 +11,4 @@ Mentioned in:
 
 Chilu notes:
 - It seems that the [[Watchman Tree]] sprang from ashes as mentioned in [[Purifications & Exaltations]] and [[Glazery & Lightsmithing]]
-	- It could mean also that [[Madrugad]] is [[Watchman]]
+	- It could mean also that [[Madrugad]] is [[The Watchman]]

@@ -1,3 +1,5 @@
+#Knock #Winter #Skolekosophy #Hushery #Skill 
+
 Doors have to do with artisans' work - with making. I think that's how we begun to find our way into the House. But of course our ascents were always limited, until we learnt to speak.
 
 I believe that all you really need is to want something enough. But I've never wanted anything that much, except of course Baldomera, and I'm very much afraid that the knot in the story is this: what Baldomera wants is the Stag Door.

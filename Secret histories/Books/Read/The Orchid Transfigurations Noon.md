@@ -13,10 +13,10 @@ A long dialogue between the [[Mountain-Mother]] and the [[Vigilant Storm]] descr
 But we must use the knife,' said the [[Lion-Throned One]], 'the noose, the flame, the Waking Word, against those who have passed the [[Three-Valved Door]]. And so none may pass: that is our Law, and the [[Law of the Sun]].
 
 Chilu notes: 
-- [[Mountain-Mother]] probably refers to [[Red Grail]]
+- [[Mountain-Mother]] probably refers to [[The Red Grail]]
 - [[Vigilant Storm]] probably refers to [[The Horned-Axe]]
 - [[Lion-Throned One]] probably refers to [[The Horned-Axe]]
-- The conversation they are having sounds like they are talking about the skinning of [[Thunderskin]]
+- The conversation they are having sounds like they are talking about the skinning of [[The Thunderskin]]
 - They have discovered how to kill [[Hours]], "where both mountains and storms end" could be a conversation about them dying.
 - [[Three-Valved Door]] sounds like something important for killing [[Hours]] or at least reaching them.
 

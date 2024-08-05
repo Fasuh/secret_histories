@@ -5,11 +5,40 @@ List of known crafting recipes:
 	- idk
 - [[Calicite Supplications]]
 	- [[Tridesma Hiera]] with [[Grail]] and a doll twisted from fabric
+		- Done, resulted in [[Flushed Mommet]]
 - [[Cardea's Delights]]
 	- [[The Great Signs and the Great Scars]] with [[Knock]] and [[Amethyst Vessel]]
 - [[Hunting Journals of Bryan Dewulf]]
 	- [[Furs & Feathers]] with [[Sky]] and "Sky-inspired fife"?
+		- Done, resulted in Fife (Missing notes)
 - [[Notes on Bindings]]
-	- [[Stitching & Binding]] with [[Heart]] and ?
+	- [[Stitching & Binding]] with [[Heart]] and Fabric material
+		- Possibly [[Pale Mommet]]
 - [[The Book of Cinders]] 
 	- [[Purifications & Exaltations]]? with [[Forge]] and iotic essence?
+		- Done
+- [[An Impertinent Vitulation]]
+	- [[Leaves & Thorns]] + [[Nectar]] + Wooden material
+		- 'a marvellous copper fruit'?
+- [[The Most Sorrowful End of the Lady Nonna]]
+	- [[Herbs & Infusions]] + [[Nectar]] + beverage material
+		- Done, resulted in [[Leathy]]
+- [[The History of Inks]] 
+	- [[Leathy]] + [[Nectar]]
+		- Done, resulted in [[Marakat]]
+- [[The History of Inks]] 
+	- [[Iotic Essence]] + [[Inks of Power]] ?
+		- encaustum named 'Orpiment Exultant' ?
+- [[Green Jasper Tablet]]
+	- [[Rites of the Roots]] + Numa-Pear + [[Nectar]]
+		- Sacrament Malachite?
+- [[Honey the Comprehensive Guide]]
+	- No idea, [[Secret histories/items/Consumables/Cuckoo-Honey|Cuckoo-Honey]] + [[Insects & Nectars]] maybe??
+		- either "Yewgall Ink" or "Skinshuck Mead"
+- [[Just Verse]]
+	- [[Preliminal Meter]] + [[Memory]]
+		- More potent memory
+- [[On Matthias and the Amethus Imago Loss]]
+	- [[Nameday Riddle]] + [[Solutions & Separations]] + [[Moth]]
+		- Possibly done, resulted in [[Wood Key]] but it was used with a [[Dreaming]]
+		- I think this recipe should be used with [[Toiling]] instead to be done correctly

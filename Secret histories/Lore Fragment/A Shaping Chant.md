@@ -10,6 +10,7 @@ Look into shaping chant and commit respec
 
 You can change your soul pieces (multiple)
 - 36 Forge allows to change 4 soul pieces.
+- 58 Forge allows to change 4 soul pieces.
 You can change one commited wisdom.
 	
 

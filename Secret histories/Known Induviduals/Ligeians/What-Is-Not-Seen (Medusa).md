@@ -98,3 +98,16 @@ they are scale.
 if you wish to satiate your curiosity with lesser crosses, then you should penetrate the white gate, and enter the lodge of the sage knight. there you will find some answers.
 
 ![[Pasted image 20240610211007.png]]
+
+# Questions
+
+## Tell me about change
+>What specifically?
+## Why did i stop changing?
+>Your change ceased for we've done what we can, rest is self will, you must seek your own ways to complete this change
+## Any advice?
+>Find the [[Lore Fragments|Secret]] of the Aintaian Anecdotes, from there on you may be able to continue your changes
+## can you tell me about the flooded flint rite?
+>its a rite that was used back in my times, taught to us by the flint himself, you can view his teachings that akin of what the sun sun in splendour would represent, in this time, his knowledge, and deep understanding of the world with the low red sun was immaculate, where once will was not required to pull into the rights, that the current hours demand, it is a powerful rite, which you should use whenever interacting with ancient secrets 
+## Tell me about [[The Roost]]
+>I myself do not know much about [[The Roost]] ask a sister of mine, who's more in line with the needs of [[The Vagabond]] they usually meet in the cities to exchange the names of the longs who have risen, [[Frau Schlussel (Klêidouchos)|Klêidouchos]] in [[Secret Histories/Locations/Not (yet) Visitable/Vienna]]

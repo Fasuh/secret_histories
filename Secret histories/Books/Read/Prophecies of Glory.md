@@ -1,3 +1,5 @@
+#Lantern #Read #Book 
+
 Religious and patriotic fables collected, or composed, by William Gore.
 
 This is much more sober in tone than Gore's previous 'Wainscot Histories'; evidently he became religious in his later years.

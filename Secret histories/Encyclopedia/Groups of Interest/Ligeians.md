@@ -1,6 +1,7 @@
 ---
 aliases:
-  - ligeian
+  - Ligeian
+  - The Ligeians
 ---
 Mentioned in:
 - [[Resurgences & Emergences]]

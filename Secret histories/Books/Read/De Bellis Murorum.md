@@ -1,4 +1,4 @@
-#Lantern #Latin #Book 
+#Lantern #Latin #Read #Book 
 
 An eighteenth-century epic poem by the pseudonymous 'Solipsistos'.
 

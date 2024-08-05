@@ -1,3 +1,5 @@
+#Rose #Read #Book 
+
 Manifesto for experimental and dangerous-sounding invocatory poetry, written some time in the nineteenth century by Dr Arun Peel. A notoriously inconsistent and incoherent text, apparently produced in a tearing hurry.
 
 'The Hours have little time for poetry,' Dr Peel avers, 'but they have a tremendous amount of time for poets.'

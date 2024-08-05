@@ -4,4 +4,4 @@ _Hard without, hard within, hard to rouse, harder to subdue._
 
 What is left of the crude powers of the deep earth.
 
-![[Scale.webp]]
+![[Secret Histories/Story/resources/Principles/Scale.webp]]

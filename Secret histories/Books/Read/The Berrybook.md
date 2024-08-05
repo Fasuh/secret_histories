@@ -1,3 +1,5 @@
+#Nectar #Killasimi #Read #Book 
+
 Thirza Blake, seventh librarian of Hush House, talks about fruit. For no other apparent reason but that it was the kind of thing she did, she talks about fruit in the woven language Killasimi.
 
 'Who was it once said, fruit is the womb of a plant? It was me. Take a few moments to think on that enripened wisdom. I shall leave a blank space for your moments, here in this page.

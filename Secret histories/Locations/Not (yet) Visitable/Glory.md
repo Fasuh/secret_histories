@@ -1,1 +1,1 @@
-The [[Glory]] is the apex of the [[House of the Sun]], an ultimate source of Light and enlightenment. It is the peak of the [[Lantern]] principle, and perhaps the aspects themselves.
+The [[Secret Histories/Locations/Not (yet) Visitable/Glory]] is the apex of the [[House of the Sun]], an ultimate source of Light and enlightenment. It is the peak of the [[Lantern]] principle, and perhaps the aspects themselves.

@@ -4,8 +4,12 @@ aliases:
 ---
 Mentioned in:
 - [[Daymare]]
+- [[Dr Yvette Southey]]
 
-Not much is known apart from a name drop, it seems like one of them is Saint Mikhail.
+Alukites are people who have commited [[The Crime of the Sky|The crime of sky]], 
+
+Known Alukites:
+- [[Magister Hokobald]]
 
 Chilu notes:
 - 

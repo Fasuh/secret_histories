@@ -1,3 +1,7 @@
+---
+aliases:
+  - Boccastrano
+---
 Echidna's children are of two kinds: 'born' and 'won.' The slippery Boccastrano - night-hunter, marrow-eater, disowned of the Lionsmith - is of that latter kind. He might have once been the rare thing called 'khalvite,' but that kind is lost, now: dishonoured; defeated; devoured.
 
 What is your history?

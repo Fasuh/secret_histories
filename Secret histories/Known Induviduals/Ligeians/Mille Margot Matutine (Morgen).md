@@ -2,8 +2,6 @@
 aliases:
   - Morgen
 ---
-
-
 ![[Mile Margot Matutine.png]]
 # Conversation
 
@@ -29,15 +27,11 @@ aliases:
 >well then, amuse me, first bring me something that strayed in from another history
 ## Brings [[Strix|Strix]] 
 >Now present me with someone that wasn't what they were meant to be.
-
 ## Which Hour is Snow
 >None /seems like you struck a nerve/
-
-## gives [[Boccastrano, the Fourth Thirstly|Boccastrano, the Fourth Thirstly]] as a task
+## gives [[Secret Histories/items/Minions/Boccastrano, the Fourth Thirstly|Boccastrano, the Fourth Thirstly]] as a task
 >The next request she has show me something where the choice was its life or its death
-
 ## Is there a way to use language beyond the white door?
 >There are ways, and every single way of them requires you to take the colonels path, you must breach the spider's door, beyond that you regain your weapon once again. Until then the old rules of the Mansus apply
-
 ## Can you give me other names of your sister Sulochana?
 >The Light-drinker, a Cobra-child, and of course, sometimes shes rather simply referred to as a great hooded prince, although wrongfully

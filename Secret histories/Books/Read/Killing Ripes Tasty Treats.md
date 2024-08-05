@@ -1,3 +1,5 @@
+#Nectar #Read #Book 
+
 The Velvet is the Hour of secrets; and so very little is known of the - Moth-long? Nectar-long? - who ascend to immortality under her auspices. But this book (by 'Kitling's Friend') purports to be part cook-book, and part manual for immortality.
 
 Kitling Ripe is the name usually given to the speechless 'but never silent' cat-thing that serves as a Name of the Velvet. Kitling Ripe, it seems, enjoys hunting immortals; and the Velvet is very fond of Kitling Ripe.
