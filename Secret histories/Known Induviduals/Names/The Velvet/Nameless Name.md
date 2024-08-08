@@ -31,3 +31,10 @@
 >is it fine if i use my fingers?
 >why wouldnt it be fine?
 >then if oyu bring me something lovely memorable succulent and great i will paint you something outstanding, outlandinsh erratic.
+
+![[Pasted image 20240805185334.png]]
+Oh you arrived, what have you brought 
+[[Vak]]
+this shall be well hidden, you are quite nice
+You forget [[Vak]], and can never remember it anymore
+i am incapable of recalling ?

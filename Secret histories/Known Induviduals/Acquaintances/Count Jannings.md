@@ -14,3 +14,8 @@ ___
 >Count Gottlob Jannings represents a Continental confraternity of physicians and duellists. He says that some lessons can only be written on skin. That might be so, but it might be that Jannings just enjoys his work a little too much
 
 >He speaks of death
+
+# Questions
+
+## Are you an [[Edge]] [[Long]]?
+No

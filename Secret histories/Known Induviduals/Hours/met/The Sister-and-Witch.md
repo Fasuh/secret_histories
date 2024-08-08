@@ -23,5 +23,19 @@ Chilu notes:
 	- It could be that they are removing free will from people
 	- As suggeted by Vonte, it could mean they could remove either Life or Death as [[Resurgences & Emergences]] suggests Birth and Death are only two directions on crossroads
 	- The subject in [[A Howling in the heart]] has mentioned how they have felt their "passions contorted to a knot".
+# Interactions
+## Obtained Revelation
+![[Pasted image 20240807190311.png]]
+## After returning revelation
+>Obtained:
+>- [[Rite of the Sea's Feasting]]
+>- [[Geminate Invocation]]
+>- [[Influence token]] (Locked)
+## Gained another revelation
+![[Pasted image 20240807211419.png]]
+## After turning it in
+>Obtained
+>- [[Shocking Storms]]
+>- [[Sea-Way]]
 
 ![[Pasted image 20240728210417.png]]

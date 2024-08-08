@@ -28,7 +28,7 @@ Yes. [[Long]] who have dedicated their lives to the [[Moon]] itself through [[Ny
 
 Who are the [[gods from nowhere/gods-from-Nowhere]]? 
 are mysterious [[Hours]] who originate from [[Nowhere]], they could be as old as [[gods-from-stone]]. More accepted thought is that they are the Gods who resided in [[Mansus]], in [[Nyctodromy]], before, who have been slain during the [[Lithomachy]], so they have become [[gods from nowhere/gods-from-Nowhere]]
-[[gods from nowhere/The Crowned Growth]], the [[gods from nowhere/Mare-in-the-Tree]], the [[gods from nowhere/Applebright]], the [[gods from nowhere/Rising Spider]], the [[gods from nowhere/Witness]], and [[gods from nowhere/Snow]].
+[[gods from nowhere/The Crowned Growth]], the [[gods from nowhere/Mare-in-the-Tree]], the [[gods from nowhere/Applebright]], the [[gods from nowhere/Rising Spider]], the [[gods from nowhere/Witness]], and [[The Snow]].
 
 Who is the [[The Meniscate]]?
 [[The Meniscate]]

@@ -35,3 +35,9 @@ aliases:
 >There are ways, and every single way of them requires you to take the colonels path, you must breach the spider's door, beyond that you regain your weapon once again. Until then the old rules of the Mansus apply
 ## Can you give me other names of your sister Sulochana?
 >The Light-drinker, a Cobra-child, and of course, sometimes shes rather simply referred to as a great hooded prince, although wrongfully
+## Hands over a hanger-on
+>Not quite what she asked for
+## Do you know where to find the [[Vagabond's map]]
+>That is aquestion more suited for one of my sisters, i wouldnt know where to even try to find [[The Vagabond]] herself
+## Can you tell me more about your request?
+>No

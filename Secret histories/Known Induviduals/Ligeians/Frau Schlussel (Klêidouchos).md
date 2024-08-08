@@ -59,3 +59,15 @@ ___
 >if you are so true about that, why dont you visit me later with one of your believers, if oyu wish to show devotion to the vagabond, after that we'll see, you still need to be acquire some logevity. but i will tell you this much, whatever rancor you show i shall not help you with.
 >who would be angry?
 >youll find out.
+## Given her [[Renira]] 
+>I didnt thought you have it in you young one, do remember, this road will be a tenious one for you, and i shall not protect whatever comes out of you
+>So you wish to meet [[The Vagabond]]?
+>>Yeah
+>Take this: [[Petition for a Labirynth Season]] you have to unravel it, you have to make this petition for her to visit you. Now i have one more question for you - Are you prepared?
+>>Im on a tight schedule so yes
+## What do i need for [[Rite of the Musician's Sacrifice]]?
+>Are you sure you wish to use that? You know what happened in musician sacrifice, you have to flay someone, their flaying should protect you if appropriate incantation has been given. You seem to be okay taking lives so that is all.
+## Why is [[Vagabond's map]] [[Nectar]]
+>She probably visited France, she visits all kinds of places, probably writes what grabbed her in those places. There is no rhyme or reason why her fragments are as they are child
+## How do i upgrade this lady further? [[Clovette]]
+>Are you talking on rose? i would keep at it.

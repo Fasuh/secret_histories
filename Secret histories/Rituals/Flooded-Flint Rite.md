@@ -7,3 +7,5 @@ It will consume lore, except sky, scale moon nectar or rose
 ![[Flooded-Flint Rite.png]]
 
 ![[Pasted image 20240728231221.png]]
+This resulted in:
+- 3 types of songs

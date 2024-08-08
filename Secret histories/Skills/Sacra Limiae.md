@@ -8,9 +8,6 @@ Wisdoms:
 - [[Horomachistry]]
 - [[Hushery]]
 
-Effective against:
-- [[Curses]]
-
 Chilu notes:
 - 
 

@@ -77,3 +77,15 @@ ___
 >there is not much to explain about, it is a hidden knowledge, that allows us to look for hidden places, forgotten places. You know am quite certain that you know about shadowless empire. You could use that map to maybe find where it was once upon a time located. The map is used only for that, to locate hard to find things, forgotten things, secret things.
 ## How to find [[Vagabond's map]]?
 >those maps are quite curious sometimes they pop out from nowhere, the best thing i can say is look for [[Rose]] [[Lore Fragments|Secrets]] you may find some answers within those [[Lore Fragments|Living Words]]
+## Whats the worst that could happen when eating a child without a crime of the sky
+>Its easy you turn into Soucouyant
+## What is Soucouyant
+>Well it is something that an alukite becomes when they cannot conserve their hunger anymore, they get out of their own skin, very powerful
+## Who do you serve?
+>ofc, i of all things serve the forge of days
+## how would i raise a tool from the dead?
+>that is more of a winter question, maybe ask people about medrugod, he used to be rather fond of those dead things, or meniscate even, she has an army of them, or was it the sun in rags, i dont quite remember
+## How would i raise a tool from living?
+>You can forge tools form many materials, i myself cant know how a tool can be fasioned form a living, sounds rather avantgarde, maybe you are thinking more of what lionsmith does i guess, could ask edge people of those creations, beasts are tools as well dont you think.
+## Can i appease the forge of days after using [[A Shaping Chant]]
+>You can appease anyone, you must know what you must do. But the particularity of it is always left out to the whimsy of the moment, if you understand. 

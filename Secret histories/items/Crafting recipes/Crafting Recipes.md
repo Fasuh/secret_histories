@@ -42,3 +42,8 @@ List of known crafting recipes:
 	- [[Nameday Riddle]] + [[Solutions & Separations]] + [[Moth]]
 		- Possibly done, resulted in [[Wood Key]] but it was used with a [[Dreaming]]
 		- I think this recipe should be used with [[Toiling]] instead to be done correctly
+- [[Musgrave's Sketches]]
+	- [[Sights & Sensations]] + [[Winter]] + flowers?
+		- Chilly Elixir
+	- Chilly elixir + ?
+		- Final pigment

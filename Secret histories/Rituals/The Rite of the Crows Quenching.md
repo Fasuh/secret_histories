@@ -6,7 +6,7 @@ Beach crow gives its blessing. Whatever is not owned, it belongs to the crow.
 
 ![[Story/resources/Pasted image 20240718233303.png]]
 resulted in:
-- deleted  [[Martensite Paste|Martensite Paste]] completely
+- deleted [[Martensite Paste|Martensite Paste]] completely
 - allows a choice of either revealing the woods or making it darker
 
 ![[Story/resources/Pasted image 20240719020215.png]]

@@ -31,3 +31,20 @@ ______
 No one was noting this - this is a direct copy of Tja's message from discord
 
 But I asked about [[The Colonel's Names]] and the respond was can be used to summon [[The Colonel|Colonel]]'s beast named "[[Phlogisticant]]" and the followup one was And since I'm blind, what would one need to do to summon it? and honestly, my headset makes listening to multiple people hard... but something in the line of any ritual aslong as one show competence against the enemies of the some world
+
+___
+
+## Are you an [[Edge]] [[Long]]?
+>Yes
+## Do you know of an [[Edge]] [[Hours|Hour]] that lives in [[Way The Wood|The Woods]]?
+>I do not recall any hours whom reside down at the bottom
+## Can you give me a new scar or point me in a direction of getting one?
+>Scars are not simply given, they are earned, but, in the end everyone has to answer to one.
+## What is the best book you have read?
+>A child's treasury of golden afternoons
+## Where can i find better tools?
+>Of course the best weapons can be found in the [[Temple of Seven Coils]] that battle still rages on, and the weapons the [[The Colonel|Colonel]] has broken are still scattered in that place. You will not find a better place than that.
+## What is the way you went through [[White Door|The White Door]] for the first time?
+>I was invited through the door by [[The Colonel]]. 
+>>Why?
+>Because im good at what im doing, killing things.

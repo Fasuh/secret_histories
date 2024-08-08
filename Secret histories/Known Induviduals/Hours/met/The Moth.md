@@ -9,3 +9,8 @@ he has given 2x kull he got form change, and a change token.
 
 
 ![[../../../Story/resources/Pasted image 20240714200514.png]]
+
+asked me to give it a painting, got a painting got from it:
+- [[Vagabond's map]]
+- [[Forbidden Epic]]
+- [[Unresolved Ambiguity]]
