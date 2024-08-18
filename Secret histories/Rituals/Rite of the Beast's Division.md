@@ -4,5 +4,5 @@ The assistant's name is taken from them in a place, or on an occasion, of power;
 
 ![[Story/resources/Pasted image 20240719021221.png]]
 Resulted in:
-- [[Scar Brutal Experience|Scar Brutal Experience]]
+- [[Secret Histories/Encyclopedia/Concepts/Scar Brutal Experience|Scar Brutal Experience]]
 - [[Phlogisticant|Phlogisticant]]

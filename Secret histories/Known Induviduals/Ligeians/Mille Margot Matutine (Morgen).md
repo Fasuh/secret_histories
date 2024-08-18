@@ -41,3 +41,21 @@ aliases:
 >That is aquestion more suited for one of my sisters, i wouldnt know where to even try to find [[The Vagabond]] herself
 ## Can you tell me more about your request?
 >No
+## Can you teach me an invisible art?
+>No
+## Do you like my scar?
+>Its fine
+## Can you give me a scar?
+>You wouldnt survive it
+>>Try me
+>she is bemused by you, return when you have met the colonel
+## What hours do you know about?
+>None of them worth mentioning.
+## Gives her [[Hint]]
+>[[White Key]]
+## Can you tell me more about the [[Hint]]?
+>I dont know anything about it, all i can see is that it is alive and it chooses to live.
+## Which door is the snow?
+>What are you talking about?
+## Can you give me other names of echidna?
+>She is known as the motehr of monsters, ms E or she who suckles serpents.

@@ -48,3 +48,13 @@ ___
 >I was invited through the door by [[The Colonel]]. 
 >>Why?
 >Because im good at what im doing, killing things.
+## Now that we have passed through the white door, can you introduce me to the colonel?
+>Oh, my boy, the colonel is much further away thatn you would imagine, the journey would take you further, into the worm museum itself, and unless he invites you thru the peacock doo, i cannot invite you there
+## Do you know who has the key to the [[Peacock Door]]? and if you do who?
+>a key through the peacock door? nay no such thing exists.
+## There is no key to go through the peacock door?
+>exactly
+## do you know where the mother of ants are?
+>i myself have not indulged in such arts, i know of her importance, but the colonel never mentioned or required me to care for that, im sorry, but i cannot help you there
+## I went to the [[Temple of Seven Coils]] by myself and i tried to clean it out, it proved too little of a challenge, is there a greater one somewhere else?
+>i would love you to meet the worm museum, hopefully you will

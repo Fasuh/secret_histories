@@ -25,7 +25,19 @@ But when the glitter-winged seventh of their number told them what he'd stolen, 
 They fell upon him and stripped him of his wings and drove him from the sky. So he, and what he stole, are gone from the world, and now we cannot even name them, but still we feel their lack.
 [[Preservation]]
 
-There's a very old story told by falconers about the aviform Hours - the secret gods who take the shape of birds. Once there were only five - the dove, the crow, the laughingthrush, the twin kites. The sixth had fallen to the talons of an owl, and they sought another to join their company. But the crow rejected half of all those they found, for the dowdiness of their plumage, and the dove rejected the others, for being too gaudy. At last they found a night-bird whose feathers were both the perfect white and the perfect black of the crow and of the dove. But once they had accepted him they learnt he was no bird at all - only a night-flitting moth. Fortunately for the moth, their pride kept them from admitting their mistake; but since that day, the aviform Hours will only meet at night, when the sixth of their kind won't be unmasked. [[Birdsong]]
+There's a very old story told by falconers about the aviform Hours - the secret gods who take the shape of birds.
+
+Once there were only five - the dove, the crow, the laughingthrush, the twin kites.
+
+The sixth had fallen to the talons of an owl, and they sought another to join their company.
+
+But the crow rejected half of all those they found, for the dowdiness of their plumage, and the dove rejected the others, for being too gaudy.
+
+At last they found a night-bird whose feathers were both the perfect white and the perfect black of the crow and of the dove.
+
+But once they had accepted him they learnt he was no bird at all - only a night-flitting moth.
+
+Fortunately for the moth, their pride kept them from admitting their mistake; but since that day, the aviform Hours will only meet at night, when the sixth of their kind won't be unmasked. [[Birdsong]]
 
 Can be taught by:
 - [[Mme Olympe Bechet]]

@@ -1,6 +1,6 @@
 #Lantern #Fucine #Read #Book  
 
-The High Misteries
+The High Mysteries
 
 The secret rites of the Church of the Unconquered Sun, which held power in at least two Histories.
 

@@ -89,3 +89,17 @@ ___
 >You can forge tools form many materials, i myself cant know how a tool can be fasioned form a living, sounds rather avantgarde, maybe you are thinking more of what lionsmith does i guess, could ask edge people of those creations, beasts are tools as well dont you think.
 ## Can i appease the forge of days after using [[A Shaping Chant]]
 >You can appease anyone, you must know what you must do. But the particularity of it is always left out to the whimsy of the moment, if you understand. 
+## How do i read vagabonds map?
+>Well you know when you reach where you have to be then you desipher the map.
+## As in toil desyper or dream?
+>Study it !
+## You got any tips for [[Ghirbi]] riddles?
+>Not really the man always is scheming up with new ones, but when you meet him you will not be the same but i met him before, all i can tell is keep your secrets close to your heart.
+## Does [[Ghirbi]] want a riddle answered only once for me or once for all of us?
+>I have never encountered a synod. but i wouldnt know if each one of you needs to answer the riddle or only one.
+## What was the [[Forge of Days]] opinion on becoming an alukite?
+>There are some private matters, that are rather bad manners to discuss and i would consider that one of them.
+## What can [[Teresa]] do
+>Oh that lovely woman, she is basically a library of knowledge, she can teach you things tthat you never knew existed before, and reveal secrets that have been unanswered for logn time, honeveer she has her own curious price.
+## Mind expanding on that?
+>Yes

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Watchman
+  - The Door in the Eye
 ---
 Mentioned in:
 - [[Pyroglyphics]]

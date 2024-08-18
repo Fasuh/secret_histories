@@ -4,5 +4,7 @@ Leo is an earnest sort, but he's prepared to do what he must. He still yearns to
 
 Learned:
 - [[Latin]]
+- [[Greek]]
+- [[Fucine]]
 
 ![[Pasted image 20240805003848.png]]

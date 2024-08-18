@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "global-search-and-replace"
+  "global-search-and-replace",
+  "language-translator",
+  "obsidian-dictionary-plugin"
 ]

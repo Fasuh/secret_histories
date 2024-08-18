@@ -26,7 +26,7 @@ ___
 ## Is the ring yew the malachite?
 >Yes the ring yew is considered by many as [[Ring-Yew|The Malachite]]
 ## Do you know of any hours that associate with grail?
->A few, [[The Beachcomer]], [[The Flowermaker]], [[Ring-Yew|The Malachite]], [[The Red Grail]], and [[The Sister-and-Witch]] and [[The Witch-and-Sister]], and [[The Wolf-Divided]].
+>A few, [[The Beachcomber]], [[The Flowermaker]], [[Ring-Yew|The Malachite]], [[The Red Grail]], and [[The Sister-and-Witch]] and [[The Witch-and-Sister]], and [[The Wolf-Divided]].
 ## Of the [[Hours]] that associate with [[Heart]] and [[Grail]] which one is your favourite?
 >[[The Sister-and-Witch]], the one is serve. the [[Heart]] within that one is beyond amazing, and of course, there is nothing little to be said by breaking out of someones clasps, by becoming so strong in your principles
 ## Do you know of a way to contact [[The Sister-and-Witch]]
@@ -43,3 +43,15 @@ ___
 >Well, it is used in a manner of connecting with the twins, what it will do for you, its unknown to me. But if your chosen twin has given it to you, she expects something, my suggestion is do not disappoint.
 >>As she is expecting something out of ritual that i need to give later?
 >The Lore Fragment is a test in itself.
+## What is a [[Sea-Way]]
+>Its the seas, nothing to sya
+## When i dreamt about it it pointed me to a location between brittain and brittany, do you know how to get there?
+>try sailing a bit. most likely [[Exploring]]
+## She has also given me some memory [[Shocking Storms]], how should i use it?
+>its a good omen, possibly you should somehow make it more favorable to your travels later in the seaway
+## What do you know of [[The Thunderskin]]
+>ah yes, vicarious lil creature, and, if i do say so myself, one of the grails greatest schemes, because as you know onece upon a time long ago, twins were a name of the grail, but they grew strong in both heart in grail and were able to break free of her influence, the grail did not like that, the grail liked the influence of the heart, the grail likes all kinds of influences as such he made the scheme of the thunderskin, hes only there as a puppet of the grail if you ask me i wouldn't trust him.
+## what other hours do you know about?
+>quite a broad question, any specifics?
+>>trying to get a lay of the land
+>p sure you know of the twins, thunderskin, red grail, and her lil entourage the wood dwelling ruffians, then of course there is the colonel, the lionsmith, mother of ants, the forge of days, flowermaker

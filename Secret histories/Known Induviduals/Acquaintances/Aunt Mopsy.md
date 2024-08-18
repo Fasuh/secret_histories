@@ -28,19 +28,20 @@ ___
 ## What was hidden or how should i look for it?
 >the easiest answer ofc is to just look around the wind itself has rumours within it and ofc whatever may arise from the earth it was hidden for a good reason, or if you wish to be especially blasphemous you could consult with those who are from nowhere, they are not a bad bunch.
 ## What can you tell me about [[The Velvet]]?
->she is a capritious and hateful lil creature who loves hiding things in every tree in [[Way The Wood|The Woods]] life was so much better without it i wish we could go back to the times when [[The Velvet]] wasnt, but we cant always get what we want can we?
+>she is a capricious and hateful lil creature who loves hiding things in every tree in [[Way The Wood|The Woods]] life was so much better without it I wish we could go back to the times when [[The Velvet]] wasn't, but we cant always get what we want can we?
 ## Can you give me back my book?
 >in due time? 
->Me: when is the due time?
+>>when is the due time?
 >when i return
 ## What is the [[Secret Histories/items/Consumables/Cuckoo-Honey|Cuckoo-Honey]]?
 >its a delicacy, something that has been long forgotten now sadly how to make, but sometimes it happens to show up, i blame the other [[histories]], i bet you could find them in those other [[histories]]. 
 ## What are the proverbs you collected?
->oh they are long and many that existed through lots and lots of rumours that were chirped out from [[Aviform Hours|The Aviform Hours]] long forgotten ones if may add as well.
-
+>oh they are long and many that existed through lots and lots of rumors that were chirped out from [[Aviform Hours|The Aviform Hours]] long forgotten ones if may add as well.
 ## What are [[Aviform Hours|The Aviform Hours]]?
 >in alphabetical order or? 
 >Me: in the other order
->of course it is [[The Beachcomer|The Crow]], [[The Vagabond|The Laughingthrush]], [[The Elegiast|The Dove]] and [[The Twins|The Twin Kite]], or as simple folk may know them as [[The Beachcomer]], [[The Vagabond]], [[The Elegiast]] and [[The Twins]].
+>of course it is [[The Beachcomber|The Crow]], [[The Vagabond|The Laughingthrush]], [[The Elegiast|The Dove]] and [[The Twins|The Twin Kite]], or as simple folk may know them as [[The Beachcomber]], [[The Vagabond]], [[The Elegiast]] and [[The Twins]].
 ## Tell me all you can about [[The Vagabond]].
 >what is there to say she travels she sees and she talks lots....... she's sometimes sits down with one of [[Ligeians|The Ligeians]] and talks all of the new longs that entered the world as well once upon the time but not the roost no no the roost is only for those of the feathery nature, even though they lack them.
+## Give me the book back.
+>

@@ -2,7 +2,7 @@
 
 this is the most ancient rite that somehow can be still used, the single proof that maybe the gods from stone may yet return.
 
-It will consume lore, except sky, scale moon nectar or rose
+It will consume [[Lore Fragments|Lore]], except [[Sky]], [[Scale]] [[Moon]] [[Nectar]] or [[Rose]]
 
 ![[Flooded-Flint Rite.png]]
 

@@ -7,19 +7,23 @@ List of known crafting recipes:
 	- [[Tridesma Hiera]] with [[Grail]] and a doll twisted from fabric
 		- Done, resulted in [[Flushed Mommet]]
 - [[Cardea's Delights]]
-	- [[The Great Signs and the Great Scars]] with [[Knock]] and [[Amethyst Vessel]]
+	- [[The Great Signs and the Great Scars]] with [[Knock]] and [[Quartz Chunk|Amethyst Vessel]]
+		- [[Eye of Profidence]]
+		- [[Scar Half-Healed Fistula]]
 - [[Hunting Journals of Bryan Dewulf]]
 	- [[Furs & Feathers]] with [[Sky]] and "Sky-inspired fife"?
-		- Done, resulted in Fife (Missing notes)
+		- Done, resulted in [[Mazarine Fife]]
 - [[Notes on Bindings]]
 	- [[Stitching & Binding]] with [[Heart]] and Fabric material
-		- Possibly [[Pale Mommet]]
+		- [[Wyrd-Weft]]
+	- [[Stitching & Binding]] + [[Grail]] + fabric material
+		- [[Pale Mommet]]
 - [[The Book of Cinders]] 
 	- [[Purifications & Exaltations]]? with [[Forge]] and iotic essence?
 		- Done
 - [[An Impertinent Vitulation]]
 	- [[Leaves & Thorns]] + [[Nectar]] + Wooden material
-		- 'a marvellous copper fruit'?
+		- [[Pyrus Auricalcinus]]
 - [[The Most Sorrowful End of the Lady Nonna]]
 	- [[Herbs & Infusions]] + [[Nectar]] + beverage material
 		- Done, resulted in [[Leathy]]
@@ -30,7 +34,7 @@ List of known crafting recipes:
 	- [[Iotic Essence]] + [[Inks of Power]] ?
 		- encaustum named 'Orpiment Exultant' ?
 - [[Green Jasper Tablet]]
-	- [[Rites of the Roots]] + Numa-Pear + [[Nectar]]
+	- [[Rites of the Roots]] + Numa-Pear ([[Pyrus Auricalcinus]]) + [[Nectar]]
 		- Sacrament Malachite?
 - [[Honey the Comprehensive Guide]]
 	- No idea, [[Secret histories/items/Consumables/Cuckoo-Honey|Cuckoo-Honey]] + [[Insects & Nectars]] maybe??
@@ -47,3 +51,18 @@ List of known crafting recipes:
 		- Chilly Elixir
 	- Chilly elixir + ?
 		- Final pigment
+- [[Chapters of Twardowski]]
+	- [[Edicts Inviolable]] + [[Heart]] + [[Formulae Vigilant]]
+		- [[Sorcerer Twardowski]]
+- [[Two Wombs, One Heart]]
+	- [[Heart]] + 
+		- Peance-Weave
+- [[Operations of a Certains Finality]]
+	- [[Putrefications & Calcinations]] + [[Moon]] + [[Asimel]]
+		- ???
+- [[Opus Magnum Caeruleum]]
+	- [[Pyroglyphics]] + [[Forge]] + ??
+		- [[Iotic Essence]]
+- [[Miracles of The Lilyking]]
+	- [[Desires & Dissolutions]] + [[Grail]] + Refulgin
+		- [[Writhing Caul]]

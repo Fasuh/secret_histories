@@ -9,137 +9,103 @@
         "dimension": 50.31531531531531,
         "children": [
           {
-            "id": "7fbc9898ec53e2d9",
+            "id": "101ac023cab46ee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret Histories/memories/Shocking Storms.md",
+                "file": "Secret Histories/memories/Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "93f4e1d3201de669",
+            "id": "23d896eff15a5005",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret Histories/Known Induviduals/Hours/The Beachcomer.md",
+                "file": "Secret Histories/Known Induviduals/Hours/met/The Moth.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f52d7d9080d8ca84",
+            "id": "3a1d0d6b409fc4df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret Histories/Lore Fragment/Desideratum Matrix.md",
+                "file": "Secret Histories/Books/Read/Lectures for Blades.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fdf27824fb6a5d90",
+            "id": "1b0483f75c4e603f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret Histories/Story/The map of mansus.md",
+                "file": "Secret Histories/Known Induviduals/Names/The Velvet/Kitling Ripe.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d41706020c99d3e6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Secret Histories/Story/resources/Pasted image 20240728224318.png"
-              }
-            }
-          },
-          {
-            "id": "b190b60ebc3d4cdc",
+            "id": "4b6aa017097595e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret Histories/Lore Fragment/Lore Fragments.md",
+                "file": "Secret Histories/Known Induviduals/Believers/Believers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a7de59ff74ebfe2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Secret Histories/Story/Connections.canvas",
-                "viewState": {
-                  "x": 6879.278969103836,
-                  "y": 2632.2719263498475,
-                  "zoom": -1.4854877550328927
-                }
-              }
-            }
-          },
-          {
-            "id": "614abfbe59007f3e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Secret Histories/Story/resources/Nectar.webp"
-              }
-            }
-          },
-          {
-            "id": "4b5ae8edb7a940ce",
+            "id": "0547ffca3ca53a84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret Histories/Known Induviduals/Hours/The Meniscate.md",
+                "file": "Secret Histories/Lore Fragment/Honey Hymn.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3c1908fd1043960e",
+            "id": "206af089f5d32ac8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret Histories/Encyclopedia/Wisdoms/Nyctodromy.md",
+                "file": "Secret Histories/Known Induviduals/Believers/Arabella.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e2ba4ba3426e067",
+            "id": "aae5cfc423e0d089",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secret Histories/Known Induviduals/Hours/The Meniscate.md",
+                "file": "Secret Histories/items/Wyrd-Weft.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "bc0b062aaad7796c",
@@ -188,7 +154,55 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Secret Histories/Known Induviduals/Hours/met/The Sister-and-Witch.md",
+                    "file": "Secret Histories/Locations/Visitable/Helpful Locales/Sea-Way.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f9595fbf7ed7399f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Secret Histories/Encyclopedia/Scars/Scar Brutal Experience.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a19f53534be02536",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Secret Histories/items/Materials/Quartz Chunk.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8f4f53c58265ef35",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Secret Histories/Lore Fragment/Forbidden Epic.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b41ae3eb53ed6324",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Secret Histories/Books/Read/Miracles of The Lilyking.md",
                     "mode": "source",
                     "source": false
                   }
@@ -219,7 +233,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -251,7 +265,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#illumination #skill",
+                "query": "scar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -288,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret Histories/memories/Shocking Storms.md",
+                "file": "Secret Histories/Books/Read/Lectures for Blades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret Histories/memories/Shocking Storms.md",
+                "file": "Secret Histories/Books/Read/Lectures for Blades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,16 +342,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret Histories/memories/Shocking Storms.md"
+                "file": "Secret Histories/Books/Read/Lectures for Blades.md"
               }
             }
+          },
+          {
+            "id": "28b551e7e4fa6b1b",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -349,56 +371,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fbc9898ec53e2d9",
+  "active": "3a1d0d6b409fc4df",
   "lastOpenFiles": [
-    "Secret Histories/Known Induviduals/Hours/met/The Sister-and-Witch.md",
-    "Secret Histories/Locations/Visitable/Helpful Locales/Hawthorne Cemetery.md",
-    "Secret Histories/memories/Shocking Storms.md",
-    "Secret Histories/Known Induviduals/Hours/The Beachcomer.md",
-    "Secret Histories/Locations/Visitable/Uncleared Vaults/Chateau Tarascon.md",
-    "Secret Histories/Books/Unread/Huldra's Cookbook.md",
-    "Secret Histories/Skills/Meniscate Reflections.md",
-    "Secret Histories/Story/Game Mechanics/Wisdom levels.md",
+    "Secret Histories/Encyclopedia/Scars/Scar Brutal Experience.md",
+    "Pasted image 20240819001543.png",
+    "Secret Histories/Books/Read/Lectures for Blades.md",
     "Secret Histories/items/Crafting recipes/Crafting Recipes.md",
-    "Pasted image 20240807224347.png",
-    "Pasted image 20240807223651.png",
-    "Secret Histories/Books/Read/Musgrave's Sketches.md",
-    "Secret Histories/Encyclopedia/Wisdoms/Skolekosophy.md",
-    "Secret Histories/Locations/Visitable/Uncleared Vaults/Chateau.md",
-    "Pasted image 20240807223353.png",
-    "Secret Histories/Locations/Visitable/Helpful Locales/Sea-Way.md",
-    "Pasted image 20240807223042.png",
-    "Pasted image 20240807223008.png",
+    "Secret Histories/Encyclopedia/Scars/Scar Half-Healed Fistula.md",
+    "Pasted image 20240819001458.png",
+    "Secret Histories/items/Eye of Profidence.md",
+    "Pasted image 20240819001349.png",
+    "Secret Histories/items/Materials/Quartz Chunk.md",
+    "Secret Histories/Lore Fragment/Formulae Voluptuous.md",
+    "Secret Histories/Lore Fragment/Unresolved Ambiguity.md",
+    "Pasted image 20240819001306.png",
+    "Secret Histories/Known Induviduals/Hours/met/The Moth.md",
+    "Secret Histories/Lore Fragment/Forbidden Epic.md",
+    "Secret Histories/items/Consumables/Refulgin.md",
     "Secret Histories/memories/Memory.md",
-    "Secret Histories/Locations/Not (yet) Visitable/Concursum.md",
-    "Secret Histories/Known Induviduals/Acquaintances/Lord Franklin Bancroit.md",
-    "Pasted image 20240807220448.png",
-    "Secret Histories/Encyclopedia/Languages/Deep Mandaic.md",
-    "Secret Histories/Story/resources/Pasted image 20240728224318.png",
-    "Secret Histories/Story/The map of mansus.md",
-    "Secret Histories/Rituals/The Rite of the Crows Quenching.md",
-    "Secret Histories/Rituals/Sunset Rite.md",
-    "Secret Histories/Rituals/Rite of the Watchman's Sorrow.md",
-    "Secret Histories/Rituals/Rite of the Sea's Feasting.md",
-    "Secret Histories/Rituals/Rite of the Musician's Sacrifice.md",
-    "Secret Histories/Rituals/Rite of the Map's Edge.md",
-    "Secret Histories/Rituals/Rite of the Crucible Soul.md",
-    "Secret Histories/Known Induviduals/Acquaintances/Magister Hokobald.md",
-    "Pasted image 20240807211419.png",
-    "Pasted image 20240807211308.png",
-    "Pasted image 20240807204427.png",
+    "Pasted image 20240818234828.png",
+    "Secret Histories/Story/Game Mechanics/Wisdom levels.md",
+    "Secret Histories/Story/Game Mechanics/Protection Token.md",
+    "Secret Histories/Story/Game Mechanics/Influence token.md",
+    "Secret Histories/Story/Game Mechanics/Wisdom Mastery.md",
+    "Secret Histories/Known Induviduals/Hours/met/The Beachcomber.md",
+    "Pasted image 20240818232608.png",
+    "Secret Histories/Known Induviduals/Hours/met/The Red Grail.md",
+    "Secret Histories/Lore Fragment/Formulae Vigilant.md",
+    "Secret Histories/Lore Fragment/Recitation of Lost Hours.md",
+    "Pasted image 20240818230147.png",
+    "Pasted image 20240818230139.png",
+    "Pasted image 20240818225609.png",
+    "Pasted image 20240818225211.png",
+    "Secret Histories/Books/Read/The Geminiad i.md",
+    "Secret Histories/Books/Unread/The Geminiad iii.md",
+    "Secret Histories/Books/Unread/The Geminiad ii.md",
+    "Secret Histories/Known Induviduals/Hours/met/The Horned-Axe.md",
+    "Secret Histories/Known Induviduals/Hours/met/The Elegiast.md",
+    "Secret Histories/Known Induviduals/Names/The Colonel",
+    "Secret Histories/memories/hanger-ons",
+    "Secret Histories/memories/music",
+    "Secret Histories/memories/weather",
     "Secret Histories/Story/Connections.canvas",
+    "Secret Histories/Known Induviduals/Names/The Sister-And-Witch",
+    "Secret Histories/Story/Plans",
     "Secret Histories/Story/Ligeans.canvas",
     "Secret Histories/Known Induviduals/Hours/Untitled",
     "Secret Histories/Known Induviduals/Hours/unconfirmed",
     "Secret Histories/Known Induviduals/Hours/aliases",
     "Secret Histories/items/Paintings",
-    "Secret Histories/Known Induviduals/Names/The Vagabond",
-    "Chillu Notes/Secret histories 270724/Known Induviduals/Hours",
-    "Chillu Notes/Secret histories 270724/Known Induviduals",
-    "Chillu Notes/Secret histories 270724",
-    "Chillu Notes",
-    "Secret histories/Books/Not Owned/desktop.ini",
     "Secret histories/Story/Ligeans.canvas",
     "Secret histories/Story/Connections.canvas"
   ]

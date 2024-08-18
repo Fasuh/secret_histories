@@ -43,9 +43,9 @@ ___
 ## How did you get to the [[Concursum]] for the first time?
 >I was whisked away for a particular crow who fancied me as someone who should serve the witch and sister
 >>was it [[Mari Adiutor]]?
->No it was not that crow it was [[The Beachcomer]]
+>No it was not that crow it was [[The Beachcomber]]
 >>An hour asked you to meet another hour?
 >They are quite close to each other so to speak
->>and what belongs to no one belongs to [[The Beachcomer]]
+>>and what belongs to no one belongs to [[The Beachcomber]]
 ## Would the twins get angry if i worked with the both of them?
 >Well they like sharing, but then agian they dont, it depends how useful of a tool you suppose yourself being.

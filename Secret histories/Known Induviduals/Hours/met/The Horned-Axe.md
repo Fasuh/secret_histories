@@ -2,6 +2,8 @@
 aliases:
   - Horned-Axe
 ---
+![[Pasted image 20240728211446.png]]
+
 Mentioned in:
 - [[Dr Arun Peel]]
 - [[Path & Pilgrim]]
@@ -30,5 +32,3 @@ Chilu notes:
 
 ![[Pasted image 20240728213056.png]]
 This makes him separate from us, he does not get bonuses from synod token, mastery token, influence token, and read books
-
-![[Pasted image 20240728211446.png]]

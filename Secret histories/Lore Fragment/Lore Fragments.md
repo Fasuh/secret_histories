@@ -3,6 +3,7 @@ aliases:
   - Secret
   - Secrets
   - Living Words
+  - Lore
 ---
 Study - increase levels
 Toil - use with or without rite
@@ -16,6 +17,7 @@ Dream - Get its description (if given the same principle) or change its type to 
 | [[A thunderous Secret]]               | [[A Red Secret]]                 | [[Heart]] x2     | [[Grail]] x2     | [[Ereb]](1) + [[A thunderous Secret]]                                                   | [[Grail]] x2 + [[Heart]] x2 + [[Edge]] x1                   | Similar result we've seen before [[Heart]] converting to [[Grail]]  |
 | [[Moonkissed Thoughts]]               | [[Vagabond Riddles]]             | [[Moon]] x2      | [[Rose]] x2      | [[Health]] + [[Stone Stories]](2) + [[Moonkissed Thoughts]]                             | [[Nectar]] x3 + [[Scale]] x2 + [[Moon]] x2 + [[Heart]] x2   | [[Stone Stories]] present                                           |
 | [[An Operation of the Declining Sun]] | [[A Waking Chant]]               | [[Winter]] x6    | [[Heart]] x6     | [[Chor]](2) + [[Wakeful Tympanum]] + [[Quenching & Quellings]]                          | [[Heart]] x 12 + [[Winter]] x8 +[[Grail]] x1                | Similar result we've seen before [[Winter]] converting to [[Heart]] |
+| [[A Mansus-Glimpse]]                  | [[An Ardent Orison]]             | [[Lantern]] x4   | [[Forge]] x4     |                                                                                         |                                                             |                                                                     |
 
 # Transformation Theory (Not proven)
 The principles might be transforming in a set order, a selected principle will always transform to a set principle.
@@ -23,7 +25,7 @@ i.e.
 [[Heart]] will always turn into [[Grail]]
 [[Knock]] can never be changed because its the end of the line
 
-[[Edge]] > [[Winter]] > [[Heart]] > [[Grail]] > ... > [[Moon]] > [[Rose]] > ... > [[Knock]]
+[[Edge]] > [[Winter]] > [[Heart]] > [[Grail]] > [[Moth]] > ...  > [[Lantern]] > [[Forge]] > ...> [[Moon]] > [[Rose]] > ... > [[Knock]]
 
 # You cannot change from [[Knock]]
 
@@ -39,3 +41,9 @@ This was a Dream Changed to: [[Invocation of the ivory dove]]
 ![[Pasted image 20240807200748.png]]
 [[Studying]]:
 - Resulted in [[A Waking Chant]]
+
+![[Pasted image 20240814220410.png]]
+[[Studying]] - [[An Ardent Orison]]
+
+![[Pasted image 20240818193843.png]]
+[[Studying]] - [[A Barber's Warning]]

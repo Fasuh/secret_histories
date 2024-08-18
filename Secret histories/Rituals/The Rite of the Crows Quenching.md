@@ -1,5 +1,5 @@
-Crow consumes the whole Ingredient.
 Beach crow gives its blessing. Whatever is not owned, it belongs to the crow.
+Crow consumes the whole Ingredient.
 
 ![[Pasted image 20240610001925.png]]
 

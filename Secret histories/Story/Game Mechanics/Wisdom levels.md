@@ -7,6 +7,8 @@ Conspiracy - Use a Committed Skill, which is currently not used in a check. May 
 Flux Upgrade - increase Flux by 1, you can choose aux wisdom
 
 Secondary Mastery - A choice of a secondary mastery from skills committed to the primary mastery, **it needs to be present on one of your skills committed to the primary mastery**
+
+Wisdom Mastery - 
 # Primary Wisdom:
 1. Soul Fragment
 2. Soul Fragment
@@ -16,8 +18,9 @@ Secondary Mastery - A choice of a secondary mastery from skills committed to the
 6. Soul Fragment + Flux/Conspiracy
 7. Soul Fragment + Flux Upgrade + Secondary Mastery
 8. Soul Fragment + Flux/Conspiracy
-9. ....
+9. Soul Fragment + [[Wisdom Mastery]]
 # Secondary Wisdom
 1. Soul Fragment
 2. Soul Fragment
-3. 
+3. Soul Fragment + Flux/Conspiracy
+4. Soul Fragment

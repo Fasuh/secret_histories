@@ -51,7 +51,7 @@ ______
 #### What do you know about [[The Twins]]?
 >[[The Twins]] curious question, my expertise is not of them, they are more.... woodsy, so to speak. But what i can tell is that they are indeed connected to [[The Red Grail]], if i remember correctly, at one point at one point or another they were their name even. But more properly they are called [[The Sister-and-Witch]] or you may call them [[The Witch-and-Sister]].
 ## Who are the [[Hours]] of the aspect of [[Moon]]
->Those who posess the aspects of the moon are [[The Beachcomer]], [[The Elegiast]], [[Madrugad|The Madrugad]], [[The Mother of Ants]], 
+>Those who posess the aspects of the moon are [[The Beachcomber]], [[The Elegiast]], [[Madrugad|The Madrugad]], [[The Mother of Ants]], 
 >but when i spoke to you another time you said that [[Meniscate]] was aligned with the [[Moon]]
 >its curious one her aspect her principle is not of the [[Moon]] but she controls that of the [[Moon]] the [[House of the Moon]] that is as a reflection of the sun itself
 ## What is the difference between the principle and aspect?
