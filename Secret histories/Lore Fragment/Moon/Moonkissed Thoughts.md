@@ -4,7 +4,7 @@ This invocation is used for the remembrance for the lost. What has been remember
 
 Using this invocation makes everyone remember and never forget
 
-![[../../resources/Pasted image 20240714184536.png]]
+![[Secret Histories/Story/resources/Pasted image 20240714184536.png]]
 resulted in [[Vagabond Riddles]]
 ????????????? - what is the implication
 

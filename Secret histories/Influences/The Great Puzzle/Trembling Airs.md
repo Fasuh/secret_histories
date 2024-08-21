@@ -9,4 +9,4 @@ Chilu notes:
 
 ![[Pasted image 20240505231255.png]]
 
-![[../../resources/Pasted image 20240715022944.png]]
+![[Secret Histories/Story/resources/Pasted image 20240715022944.png]]

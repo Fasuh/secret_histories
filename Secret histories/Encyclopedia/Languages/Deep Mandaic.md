@@ -14,7 +14,7 @@ There is a story known to candle-makers: of a guild-master who made a wager with
 
 Taught by:
 - [[Mr Ehsan Fekri]]
-- [[Lord Franklin Bancroit]]
+- [[Lord Franklin Bancroft]]
 - [[Magister Hokobald]]
 
 Chilu notes:

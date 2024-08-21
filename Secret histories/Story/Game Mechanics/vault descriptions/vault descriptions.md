@@ -17,6 +17,7 @@
 ![[Story/resources/Pasted image 20240714220208.png]] - its a beast
 ![[Pasted image 20240801220313.png]] - You cannot use tools in this room
 ![[Pasted image 20240801220321.png]] - you cannot use summons in this room, can use them if you wound one of your soul pieces
+![[Pasted image 20240820200851.png]] - -10 to a chosen check
 ## Types of attacks:
 they seem to be on the far ends of the card
 

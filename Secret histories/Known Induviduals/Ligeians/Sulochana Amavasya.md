@@ -57,7 +57,7 @@ my sister [[Professor Rowena Hengerst (Rowena)|Rowena]]
 You have not witnessed the woods you're not ready
 
 ## What is the Wrong door?
-It is the spider door, also known as the bloody gate or the serpent gate, its the sacred to the mother of ants, and its opened by my key,. they key which hooded princes used to travel between histories.
+It is the spider door, also known as the bloody gate or the serpent gate, its the sacred to the mother of ants, and its opened by my key, the key which hooded princes used to travel between histories.
 
 ## How to find medusa?
 You don't find her she finds you, avert your gaze.

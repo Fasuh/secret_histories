@@ -5,7 +5,7 @@
 4. [[The Great Signs and the Great Scars]] - Done
 5. [[Edicts Inviolable]] - [[Heart]] x4
 6. [[Edicts Martial]] - [[Moon]] x5
-7. [[Inks of Revelation]] - [[Lantern]] x6
+7.  - [[Lantern]] x6
 8. [[Inks of Containment]] - [[Winter]] x7
 9. [[Inks of Power]] - [[Rose]] x8
 

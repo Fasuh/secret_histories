@@ -4,6 +4,7 @@ aliases:
   - Twins
   - The Sea Twins
 ---
+![[Pasted image 20240728210417.png]]
 Mentioned in:
 - [[A Howling in the heart]]
 - [[Ramsund|Ramsund*]]
@@ -37,5 +38,3 @@ Chilu notes:
 >Obtained
 >- [[Shocking Storms]]
 >- [[Sea-Way]]
-
-![[Pasted image 20240728210417.png]]

@@ -32,3 +32,13 @@ Can teach:
 >in places forgotten even by the [[Hours]], or by the long themselves. or maybe i would just write a secret, because the best preserved secrets are ones that are yet to be written.
 ## Are you an edge long?
 >No
+## i know someone who died, i wish to bring them back to life, i heard malachite is capable of doing such thing?
+>the malachite can do many miracles, but those miracles are reserved for her own, mayhaps you should give yourself a bit to the malachite and then you may gain some of those favors for your friend ofc
+## In that case how do i contact the malachite?
+>you must traverse teh woods, and should you do so, contact her with grail
+## i assume because your principle is visibly nectar, do you contact her via nectar?
+>No
+## any conflicts of interest with twins?
+>i hope you realize her company is in less than stellar relationship with the twins, but i wouldnt dare to believe anything of the malachite whether she has or has not a problem with them
+## What is your favourite book?
+>[[Huldra's Cookbook]]

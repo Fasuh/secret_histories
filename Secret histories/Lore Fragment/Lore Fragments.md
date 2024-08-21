@@ -5,9 +5,9 @@ aliases:
   - Living Words
   - Lore
 ---
-Study - increase levels
+Study - increase levels or change its type to a principle given
 Toil - use with or without rite
-Dream - Get its description (if given the same principle) or change its type to a principle given
+Dream - Get its description (if given the same principle)
 
 | Source                                | Result                           | Source Principle | Result Principle | Materials Used                                                                          | Principles in Materials                                     | Notes                                                               |
 | ------------------------------------- | -------------------------------- | ---------------- | ---------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------- |

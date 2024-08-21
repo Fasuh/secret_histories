@@ -49,3 +49,7 @@ ___
 >>and what belongs to no one belongs to [[The Beachcomber]]
 ## Would the twins get angry if i worked with the both of them?
 >Well they like sharing, but then agian they dont, it depends how useful of a tool you suppose yourself being.
+## What is the delightful sacremament
+>The Delightful Sacrement can heal but it can't bring people back from beyond [death], that's more the Malachite Domain
+## Any books you recommend?
+>Recommends the Crossing to Noon book
